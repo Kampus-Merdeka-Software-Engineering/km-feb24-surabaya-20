@@ -17,93 +17,35 @@
     <script src="https://unpkg.com/feather-icons"></script>
 
     <!-- Style CSS -->
-    <link rel="stylesheet" href="assets/style.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
   </head>
 
   <body>
-    <header>
-      <!-- Navigation -->
-      <div class="container">
-        <div class="navigation">
-          <ul>
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="coffee"></i>
-                </span>
-                <span class="title">Lower Manhattan</span>
-              </a>
-            </li>
+    <!-- navbar start -->
+    <nav class="navbar">
+      <a href="#" class="navbar-logo">Lower <span>Manhattan</span></a>
 
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="home"></i>
-                </span>
-                <span class="title">Dashboard</span>
-              </a>
-            </li>
-
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="users"></i>
-                </span>
-                <span class="title">Customers</span>
-              </a>
-            </li>
-
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="message-circle"></i>
-                </span>
-                <span class="title">Messages</span>
-              </a>
-            </li>
-
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="help-circle"></i>
-                </span>
-                <span class="title">Help</span>
-              </a>
-            </li>
-
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="settings"></i>
-                </span>
-                <span class="title">Settings</span>
-              </a>
-            </li>
-
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="lock"></i>
-                </span>
-                <span class="title">Password</span>
-              </a>
-            </li>
-
-            <li>
-              <a href="#">
-                <span class="icon">
-                  <i data-feather="log-out"></i>
-                </span>
-                <span class="title">Sign Out</span>
-              </a>
-            </li>
-          </ul>
-        </div>
+      <div class="navbar-nav">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#menu">Menu</a>
+        <a href="#contact">Contact</a>
       </div>
-    </header>
 
+      <div class="navbar-extra">
+        <a href="#" id="search"> <i data-feather="search"></i></a>
+        <a href="#" id="shopping-cart"> <i data-feather="shopping-cart"></i></a>
+        <a href="#" id="hamburger-menu"> <i data-feather="menu"></i></a>
+      </div>
+    </nav>
+    <!-- navbar end -->
+
+    <!-- Feather Icons -->
     <script>
       feather.replace();
     </script>
+
+    <!-- Javascript -->
+    <script src="assets/js/script.js"></script>
   </body>
 </html>
