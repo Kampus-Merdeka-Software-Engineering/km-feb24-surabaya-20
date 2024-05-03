@@ -18,6 +18,37 @@
 
     <!-- Style CSS -->
     <link rel="stylesheet" href="assets/css/style.css" />
+
+    <!-- Cross-browser Solution | For browsers that do not support the scroll-behavior property -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        // Add smooth scrolling to all links
+        $("a").on("click", function (event) {
+          // Make sure this.hash has a value before overriding default behavior
+          if (this.hash !== "") {
+            // Prevent default anchor click behavior
+            event.preventDefault();
+
+            // Store hash
+            var hash = this.hash;
+
+            // Using jQuery's animate() method to add smooth page scroll
+            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+            $("html, body").animate(
+              {
+                scrollTop: $(hash).offset().top,
+              },
+              800,
+              function () {
+                // Add hash (#) to URL when done scrolling (default click behavior)
+                window.location.hash = hash;
+              }
+            );
+          } // End if
+        });
+      });
+    </script>
   </head>
 
   <body>
@@ -27,15 +58,15 @@
 
       <div class="navbar-nav">
         <a href="#home">Home</a>
-        <a href="#product">Product</a>
-        <a href="#team">Team</a>
         <a href="#about">About</a>
+        <a href="#product">Product</a>
         <a href="#contact">Contact</a>
+        <a href="#team">Team</a>
       </div>
 
       <div class="navbar-extra">
         <a href="#" id="search"> <i data-feather="search"></i></a>
-        <!-- <a href="#" id="shopping-cart"> <i data-feather="shopping-cart"></i></a> -->
+        <a href="#" id="shopping-cart"> <i data-feather="shopping-cart"></i></a>
         <a href="#" id="hamburger-menu"> <i data-feather="menu"></i></a>
       </div>
     </nav>
@@ -55,6 +86,152 @@
       </main>
     </section>
     <!-- Hero Section End -->
+
+    <!-- About Section Start -->
+    <section id="about" class="about">
+      <h2>Tentang<span> Kami</span></h2>
+
+      <div class="row">
+        <div class="about-img">
+          <img src="assets/images/tentang-kami.jpg" alt="Tentang Kami" />
+        </div>
+        <div class="content">
+          <h3>Kenapa memilih kopi kami?</h3>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
+            quod id eum, illo odit error.
+          </p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam
+            recusandae assumenda nobis voluptates numquam unde voluptatum sit
+            eum vel ipsa.
+          </p>
+        </div>
+      </div>
+    </section>
+    <!-- About Section End -->
+
+    <!-- Product Section Start -->
+    <section id="product" class="product">
+      <h2>Produk<span> Kami</span></h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quisquam
+        velit repudiandae reprehenderit.
+      </p>
+
+      <div class="row">
+        <div class="product-card">
+          <img
+            class="product-card-img"
+            src="assets/images/product.jpg"
+            alt="Product 1"
+          />
+          <h3 class="product-card-title">| Product 1 |</h3>
+          <p class="menu-card-price">USD $3</p>
+        </div>
+        <div class="product-card">
+          <img
+            class="product-card-img"
+            src="assets/images/product.jpg"
+            alt="Product 1"
+          />
+          <h3 class="product-card-title">| Product 2 |</h3>
+          <p class="menu-card-price">USD $3</p>
+        </div>
+        <div class="product-card">
+          <img
+            class="product-card-img"
+            src="assets/images/product.jpg"
+            alt="Product 1"
+          />
+          <h3 class="product-card-title">| Product 3 |</h3>
+          <p class="menu-card-price">USD $3</p>
+        </div>
+        <div class="product-card">
+          <img
+            class="product-card-img"
+            src="assets/images/product.jpg"
+            alt="Product 1"
+          />
+          <h3 class="product-card-title">| Product 4 |</h3>
+          <p class="menu-card-price">USD $3</p>
+        </div>
+        <div class="product-card">
+          <img
+            class="product-card-img"
+            src="assets/images/product.jpg"
+            alt="Product 1"
+          />
+          <h3 class="product-card-title">| Product 5 |</h3>
+          <p class="menu-card-price">USD $3</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Product Section End -->
+
+    <!-- Contact Section Start -->
+    <section id="contact" class="contact">
+      <h2>Kontak<span> Kami</span></h2>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat,
+        sunt.
+      </p>
+
+      <div class="row">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48381.42994980784!2d-74.03668965334685!3d40.721552427927335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259885419838b%3A0x2d39c2f6ed6db3c!2sLower%20Manhattan%2C%20New%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sid!4v1714751633956!5m2!1sen!2sid"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          class="map"
+        ></iframe>
+
+        <form action="">
+          <div class="input-group">
+            <i data-feather="user"></i>
+            <input type="text" placeholder="nama" />
+          </div>
+          <div class="input-group">
+            <i data-feather="mail"></i>
+            <input type="text" placeholder="email" />
+          </div>
+          <div class="input-group">
+            <i data-feather="phone"></i>
+            <input type="text" placeholder="phone number" />
+          </div>
+          <button type="submit" class="btn">Kirim Pesan</button>
+        </form>
+      </div>
+    </section>
+    <!-- Contact Section End -->
+
+    <!-- Team Section Start-->
+
+    <!-- Team Section End-->
+
+    <!-- footer Start -->
+    <footer>
+      <div class="socials">
+        <a href="#"><i data-feather="linkedin"></i></a>
+        <a href="#"><i data-feather="instagram"></i></a>
+        <a href="#"><i data-feather="facebook"></i></a>
+        <a href="#"><i data-feather="twitter"></i></a>
+      </div>
+
+      <div class="links">
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#product">Product</a>
+        <a href="#contact">Contact</a>
+        <a href="#team">Team</a>
+      </div>
+
+      <div class="credit">
+        <p>Created by <span>Tim 20 - Section Surabaya</span> | &copy; 2024.</p>
+      </div>
+    </footer>
+    <!-- footer End -->
 
     <!-- Feather Icons -->
     <script>
