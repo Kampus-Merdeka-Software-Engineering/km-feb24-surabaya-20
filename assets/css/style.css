@@ -305,6 +305,50 @@ body {
   border-radius: 1rem;
 }
 
+/* Team Section*/
+.team {
+  padding: 8rem 7% 1.4rem;
+}
+
+.team h2 {
+  text-align: center;
+  font-size: 2.6rem;
+  margin-bottom: 1rem;
+}
+
+.team h2 span {
+  color: var(--primary);
+}
+
+.team p {
+  text-align: center;
+  max-width: 50%;
+  margin: auto;
+  font-weight: 100;
+  line-height: 1.6;
+}
+
+.team .row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 5rem;
+  justify-content: center;
+}
+
+.team .row .team-card {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.team .row .team-card img {
+  border-radius: 10%;
+  width: 80%;
+}
+
+.team .row .team-card .team-card-title {
+  margin: 1rem auto 0.5rem;
+}
+
 /* Footer */
 footer {
   background-color: var(--primary);
@@ -427,6 +471,10 @@ footer .credit span {
   }
 
   .contact p {
+    font-size: 1.2rem;
+  }
+
+  .team p {
     font-size: 1.2rem;
   }
 }
