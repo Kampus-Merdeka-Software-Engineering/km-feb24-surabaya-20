@@ -59,16 +59,53 @@
       <div class="navbar-nav">
         <a href="#home">Home</a>
         <a href="#about">About</a>
+        <a href="#menu">Menu</a>
         <a href="#product">Product</a>
         <a href="#contact">Contact</a>
         <a href="#team">Team</a>
       </div>
 
       <div class="navbar-extra">
-        <a href="#" id="search"> <i data-feather="search"></i></a>
-        <a href="#" id="shopping-cart"> <i data-feather="shopping-cart"></i></a>
+        <a href="#" id="search-button"> <i data-feather="search"></i></a>
+        <a href="#" id="shopping-cart-button"
+          ><i data-feather="shopping-cart"></i
+        ></a>
         <a href="#" id="hamburger-menu"> <i data-feather="menu"></i></a>
       </div>
+
+      <!-- search form start -->
+      <div class="search-form">
+        <input type="search" id="search-box" placeholder="search here..." />
+        <label for="search-box"> <i data-feather="search"></i></label>
+      </div>
+      <!-- search form end -->
+
+      <!-- shopping cart start -->
+      <div id="shopping-cart" class="shopping-cart">
+        <div class="cart-item">
+          <img
+            src="assets/images/product/chocolate-package.jpg"
+            alt="Chocolate Package"
+          />
+          <div class="item-detail">
+            <h3>Chocolate Package</h3>
+            <div class="item-price">USD $4</div>
+          </div>
+          <i data-feather="trash-2" class="remove-item"></i>
+        </div>
+        <div class="cart-item">
+          <img
+            src="assets/images/product/coffee-package.jpg"
+            alt="Coffee Package"
+          />
+          <div class="item-detail">
+            <h3>Coffee Package</h3>
+            <div class="item-price">USD $4</div>
+          </div>
+          <i data-feather="trash-2" class="remove-item"></i>
+        </div>
+      </div>
+      <!-- shopping cart end -->
     </nav>
     <!-- navbar end -->
 
@@ -82,18 +119,18 @@
           Dari biji pilihan hingga cangkir Anda, kami sajikan kenikmatan
           terbaik. Temukan kisah dan rasa yang tak terlupakan bersama kami.
         </p>
-        <a href="#" class="cta">Beli sekarang</a>
+        <a href="#product" class="cta">Beli sekarang</a>
       </main>
     </section>
     <!-- Hero Section End -->
 
     <!-- About Section Start -->
     <section id="about" class="about">
-      <h2>Tentang<span> Kami</span></h2>
+      <h2><span>Tentang</span> Kami</h2>
 
       <div class="row">
         <div class="about-img">
-          <img src="assets/images/tentang-kami.jpg" alt="Tentang Kami" />
+          <img src="assets/images/about.jpg" alt="Tentang Kami" />
         </div>
         <div class="content">
           <h3>Kenapa memilih kopi kami?</h3>
@@ -111,68 +148,127 @@
     </section>
     <!-- About Section End -->
 
-    <!-- Product Section Start -->
-    <section id="product" class="product">
-      <h2>Produk<span> Kami</span></h2>
+    <!-- Menu Section Start -->
+    <section id="menu" class="menu">
+      <h2><span>Menu Unggulan</span> Kami</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quisquam
         velit repudiandae reprehenderit.
       </p>
 
       <div class="row">
-        <div class="product-card">
+        <div class="menu-card">
           <img
-            class="product-card-img"
-            src="assets/images/product.jpg"
-            alt="Product 1"
+            class="menu-card-img"
+            src="assets/images/menu/menu.jpg"
+            alt="Menu 1"
           />
-          <h3 class="product-card-title">| Product 1 |</h3>
-          <p class="product-card-price">USD $3</p>
+          <h3 class="menu-card-title">| Menu 1 |</h3>
+          <p class="menu-card-price">USD $3</p>
         </div>
-        <div class="product-card">
+        <div class="menu-card">
           <img
-            class="product-card-img"
-            src="assets/images/product.jpg"
-            alt="Product 1"
+            class="menu-card-img"
+            src="assets/images/menu/menu.jpg"
+            alt="Menu 2"
           />
-          <h3 class="product-card-title">| Product 2 |</h3>
-          <p class="product-card-price">USD $3</p>
+          <h3 class="menu-card-title">| Menu 2 |</h3>
+          <p class="menu-card-price">USD $3</p>
         </div>
-        <div class="product-card">
+        <div class="menu-card">
           <img
-            class="product-card-img"
-            src="assets/images/product.jpg"
-            alt="Product 1"
+            class="menu-card-img"
+            src="assets/images/menu/menu.jpg"
+            alt="Menu 3"
           />
-          <h3 class="product-card-title">| Product 3 |</h3>
-          <p class="product-card-price">USD $3</p>
+          <h3 class="menu-card-title">| Menu 3 |</h3>
+          <p class="menu-card-price">USD $3</p>
         </div>
-        <div class="product-card">
+        <div class="menu-card">
           <img
-            class="product-card-img"
-            src="assets/images/product.jpg"
-            alt="Product 1"
+            class="menu-card-img"
+            src="assets/images/menu/menu.jpg"
+            alt="Menu 4"
           />
-          <h3 class="product-card-title">| Product 4 |</h3>
-          <p class="product-card-price">USD $3</p>
+          <h3 class="menu-card-title">| Menu 4 |</h3>
+          <p class="menu-card-price">USD $3</p>
         </div>
-        <div class="product-card">
+        <div class="menu-card">
           <img
-            class="product-card-img"
-            src="assets/images/product.jpg"
-            alt="Product 1"
+            class="menu-card-img"
+            src="assets/images/menu/menu.jpg"
+            alt="Menu 5"
           />
-          <h3 class="product-card-title">| Product 5 |</h3>
-          <p class="product-card-price">USD $3</p>
+          <h3 class="menu-card-title">| Menu 5 |</h3>
+          <p class="menu-card-price">USD $3</p>
         </div>
       </div>
     </section>
 
-    <!-- Product Section End -->
+    <!-- Menu Section End -->
+
+    <!-- Products Section Start -->
+    <section id="product" class="product">
+      <h2><span>Produk Unggulan</span> Kami</h2>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime delectus
+        nemo sit corrupti, adipisci ducimus.
+      </p>
+
+      <div class="row">
+        <div class="product-card">
+          <div class="product-icons">
+            <a href="#"><i data-feather="shopping-cart"></i></a>
+            <a href="#"><i data-feather="eye"></i></a>
+          </div>
+          <div class="product-img">
+            <img
+              src="assets/images/product/chocolate-package.jpg"
+              alt="Product 1"
+            />
+          </div>
+          <div class="product-content">
+            <h3>Chocolate Package</h3>
+            <div class="product-stars">
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star" class="star-full"></i>
+            </div>
+            <div class="product-price">USD $4 <span>USD $6</span></div>
+          </div>
+        </div>
+        <div class="product-card">
+          <div class="product-icons">
+            <a href="#"><i data-feather="shopping-cart"></i></a>
+            <a href="#"><i data-feather="eye"></i></a>
+          </div>
+          <div class="product-img">
+            <img
+              src="assets/images/product/coffee-package.jpg"
+              alt="Product 1"
+            />
+          </div>
+          <div class="product-content">
+            <h3>Coffee Package</h3>
+            <div class="product-stars">
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star" class="star-full"></i>
+              <i data-feather="star"></i>
+            </div>
+            <div class="product-price">USD $4 <span>USD $6</span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Products Section End -->
 
     <!-- Contact Section Start -->
     <section id="contact" class="contact">
-      <h2>Kontak<span> Kami</span></h2>
+      <h2><span>Kontak</span> Kami</h2>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat,
         sunt.
@@ -208,7 +304,7 @@
 
     <!-- Team Section Start-->
     <section id="team" class="team">
-      <h2>Tim<span> Kami</span></h2>
+      <h2><span>Tim</span> Kami</h2>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum quisquam
         velit repudiandae reprehenderit.
@@ -218,7 +314,7 @@
         <div class="team-card">
           <img
             class="team-card-img"
-            src="assets/images/team.jpg"
+            src="assets/images/team/team.jpg"
             alt="People 1"
           />
           <h3 class="team-card-title">- People 1 -</h3>
@@ -227,7 +323,7 @@
         <div class="team-card">
           <img
             class="team-card-img"
-            src="assets/images/team.jpg"
+            src="assets/images/team/team.jpg"
             alt="People 2"
           />
           <h3 class="team-card-title">- People 2 -</h3>
@@ -236,7 +332,7 @@
         <div class="team-card">
           <img
             class="team-card-img"
-            src="assets/images/team.jpg"
+            src="assets/images/team/team.jpg"
             alt="People 3"
           />
           <h3 class="team-card-title">- People 3 -</h3>
@@ -245,7 +341,7 @@
         <div class="team-card">
           <img
             class="team-card-img"
-            src="assets/images/team.jpg"
+            src="assets/images/team/team.jpg"
             alt="People 4"
           />
           <h3 class="team-card-title">- People 4 -</h3>
@@ -254,7 +350,7 @@
         <div class="team-card">
           <img
             class="team-card-img"
-            src="assets/images/team.jpg"
+            src="assets/images/team/team.jpg"
             alt="People 5"
           />
           <h3 class="team-card-title">- People 5 -</h3>
@@ -263,7 +359,7 @@
         <div class="team-card">
           <img
             class="team-card-img"
-            src="assets/images/team.jpg"
+            src="assets/images/team/team.jpg"
             alt="People 6"
           />
           <h3 class="team-card-title">- People 6 -</h3>
@@ -285,6 +381,7 @@
       <div class="links">
         <a href="#home">Home</a>
         <a href="#about">About</a>
+        <a href="#menu">Menu</a>
         <a href="#product">Product</a>
         <a href="#contact">Contact</a>
         <a href="#team">Team</a>
