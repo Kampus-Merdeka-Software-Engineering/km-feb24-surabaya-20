@@ -73,6 +73,36 @@ body {
   transform: scaleX(0.5);
 }
 
+/* Dropdown container */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgba(1, 1, 1, 0.8);
+  min-width: 160px;
+  z-index: 999;
+  opacity: 0;
+  transition: 0.3s ease;
+}
+
+/* Links inside the dropdown */
+.dropdown-content .text-drop {
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  display: block;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+  opacity: 1;
+}
+
 .navbar .navbar-extra a {
   color: #fff;
   margin: 0 0.5rem;
@@ -125,11 +155,27 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../images/header-bg.jpg");
-  background-repeat: no-repeat;
+  /* background-image: url("../images/header-bg.jpg");
+  background-repeat: no-repeat; */
   background-size: cover;
   background-position: center;
   position: relative;
+  animation: changeBackground 15s infinite;
+}
+
+@keyframes changeBackground {
+  0% {
+    background-image: url(../images/header-bg1.jpg);
+  }
+  33.33% {
+    background-image: url(../images/header-bg2.jpg);
+  }
+  66.67% {
+    background-image: url(../images/header-bg3.jpg);
+  }
+  100% {
+    background-image: url(../images/header-bg1.jpg);
+  }
 }
 
 .hero::after {
@@ -141,8 +187,8 @@ body {
   bottom: 0;
   background: linear-gradient(
     0deg,
-    rgba(1, 1, 3, 1) 10%,
-    rgba(255, 255, 255, 0) 55%
+    var(--bg-light),
+    rgba(255, 255, 255, 0) 50%
   );
 }
 
@@ -165,9 +211,9 @@ body {
   color: #fff;
   margin-top: 1rem;
   line-height: 1.4;
-  font-weight: 100;
+  font-weight: 200;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-  mix-blend-mode: difference;
+  /* mix-blend-mode: difference; */
 }
 
 .hero .content .cta {
@@ -323,12 +369,15 @@ body {
   border-radius: 1rem;
 }
 
-.contact .row form .input-group input {
+.contact .row form .input-group input,
+.contact .row form .input-group textarea {
   width: 100%;
   padding: 2rem;
   font-size: 1.7rem;
   background: none;
   color: #fff;
+  border: none;
+  resize: none;
 }
 
 .contact .row form .btn {
@@ -396,27 +445,6 @@ footer {
   padding-bottom: 2rem;
 }
 
-footer .socials {
-  padding: 1rem 0;
-}
-
-footer .socials a {
-  color: #fff;
-  margin: 1rem;
-}
-
-footer .socials a:hover,
-footer .links a:hover {
-  color: var(--bg);
-}
-
-footer .links {
-  margin-bottom: 1.4rem;
-}
-footer .links a {
-  color: #fff;
-  padding: 0.7rem 1rem;
-}
 footer .credit span {
   color: var(--bg);
   font-weight: 700;
@@ -445,7 +473,7 @@ footer .credit span {
     position: absolute;
     top: 100%;
     right: -100%;
-    background-color: #fff;
+    background-color: var(--bg-light);
     width: 30rem;
     height: 100vh;
     transition: 0.3s;
@@ -469,6 +497,10 @@ footer .credit span {
 
   .navbar .navbar-nav a:hover::after {
     transform: scaleX(0.2);
+  }
+
+  .dropdown-content {
+    background-color: #fff;
   }
 
   .navbar .search-form {
