@@ -246,30 +246,33 @@ body {
   display: flex;
 }
 
-.about .row .about-img {
-  flex: 1 1 45rem;
-}
-
-.about .row .about-img img {
-  width: 100%;
-  border-radius: 1rem;
-}
-
-.about .row .content {
+.about .row .row-content {
   flex: 1 1 34rem;
-  padding: 0 1rem;
+  padding: 2rem 7rem;
 }
 
-.about .row .content h3 {
+.about .row .row-content h3 {
+  color: var(--primary);
+  text-align: center;
+  margin-bottom: 3rem;
   font-size: 1.8rem;
-  margin-bottom: 1rem;
 }
 
-.about .row .content p {
-  margin-bottom: 0.8rem;
+.about .row .row-content .content {
+  margin: 0rem 1rem;
+  padding: 1rem;
+}
+
+.about .row .row-content .content h4 {
   font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.about .row .row-content .content p {
+  margin-bottom: 0.8rem;
   font-weight: 200;
   line-height: 1.6;
+  text-align: justify;
 }
 
 /* Menu Section */
@@ -509,27 +512,23 @@ footer .credit span {
   }
 
   .about .row {
+    display: flex;
     flex-wrap: wrap;
   }
 
-  .about .row .about-img img {
-    height: 24rem;
-    object-fit: cover;
-    object-position: center;
+  .about .row .row-content {
+    padding: 2rem 7rem;
   }
 
-  .about .row .content {
-    padding: 0;
+  .about .row .row-content .content p {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
   }
 
-  .about .row .content h3 {
-    margin-top: 1rem;
-    font-size: 2rem;
-  }
-
-  .about .row .content p {
+  .about .row .row-content .content h4 {
     font-size: 1.5rem;
   }
+
   .menu p {
     font-size: 1.2rem;
   }
