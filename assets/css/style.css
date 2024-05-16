@@ -28,7 +28,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.4rem 7%;
+  padding: 0.5rem 7%;
   background-color: rgba(1, 1, 1, 0.8);
   border-bottom: 1px solid var(--primary);
   position: fixed;
@@ -39,10 +39,21 @@ body {
 }
 
 .navbar .navbar-logo {
+  display: flex;
+}
+
+.navbar .navbar-logo img {
+  width: 50px;
+  height: 50px;
+  margin-top: 0.5rem;
+}
+
+.navbar .navbar-logo a {
   font-size: 2rem;
   font-weight: 700;
   color: #fff;
   font-style: italic;
+  padding: 1rem 0.5rem;
 }
 
 .navbar .navbar-logo span {
@@ -213,7 +224,6 @@ body {
   line-height: 1.4;
   font-weight: 200;
   text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-  /* mix-blend-mode: difference; */
 }
 
 .hero .content .cta {
@@ -236,6 +246,7 @@ body {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 3rem;
+  text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
 
 .about h2 span {
@@ -284,6 +295,7 @@ body {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
 
 .menu h2 span {
@@ -314,6 +326,7 @@ body {
 .menu .row .menu-card img {
   border-radius: 50%;
   width: 80%;
+  box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
 
 .menu .row .menu-card .menu-card-title {
@@ -329,6 +342,7 @@ body {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
 
 .contact h2 span {
@@ -403,6 +417,7 @@ body {
   text-align: center;
   font-size: 2.6rem;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
 
 .team h2 span {
@@ -433,6 +448,7 @@ body {
 .team .row .team-card img {
   border-radius: 10%;
   width: 80%;
+  box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
 }
 
 .team .row .team-card .team-card-title {
@@ -443,9 +459,8 @@ body {
 footer {
   background-color: var(--primary);
   text-align: center;
-  padding: 1rem 0;
+  padding: 1.5rem 0;
   margin-top: 3rem;
-  padding-bottom: 2rem;
 }
 
 footer .credit span {
@@ -470,6 +485,11 @@ footer .credit span {
 
   #hamburger-menu {
     display: inline-block;
+  }
+
+  .navbar .navbar-logo img {
+    width: 35px;
+    height: 35px;
   }
 
   .navbar .navbar-nav {
@@ -517,7 +537,7 @@ footer .credit span {
   }
 
   .about .row .row-content {
-    padding: 2rem 7rem;
+    padding: 2rem 3rem;
   }
 
   .about .row .row-content .content p {
