@@ -440,6 +440,7 @@ body {
 }
 
 .team .row .team-card {
+  position: relative;
   text-align: center;
   margin-bottom: 4rem;
   width: 20rem;
@@ -453,6 +454,20 @@ body {
 
 .team .row .team-card .team-card-title {
   margin: 1rem auto 0.5rem;
+}
+
+.team .row .team-card .sosial {
+  position: absolute;
+  bottom: 8rem;
+  right: 6.7rem;
+}
+
+.team .row .team-card .sosial a {
+  color: var(--bg-light);
+  margin: 0.5rem;
+}
+.team .row .team-card .sosial a:hover {
+  color: var(--primary);
 }
 
 /* Footer */
