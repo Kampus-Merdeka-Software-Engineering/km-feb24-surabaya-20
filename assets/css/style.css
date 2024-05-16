@@ -497,17 +497,18 @@ footer .credit span {
     top: 100%;
     right: -100%;
     background-color: var(--bg-light);
-    width: 30rem;
+    width: 20rem;
     height: 100vh;
     transition: 0.3s;
   }
 
   .navbar .navbar-nav.active {
     right: 0;
+    background-color: rgba(1, 1, 1, 0.8);
   }
 
   .navbar .navbar-nav a {
-    color: var(--bg);
+    color: var(--bg-light);
     display: block;
     margin: 1.5rem;
     padding: 0.5rem;
@@ -523,7 +524,7 @@ footer .credit span {
   }
 
   .dropdown-content {
-    background-color: #fff;
+    position: relative;
   }
 
   .navbar .search-form {
