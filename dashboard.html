@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard</title>
+    <link rel="icon" href="assets/images/logo.png" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Feather Icons -->
+    <script src="https://unpkg.com/feather-icons"></script>
+
+    <!-- Style CSS -->
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Cross-browser Solution | For browsers that do not support the scroll-behavior property -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        // Add smooth scrolling to all links
+        $("a").on("click", function (event) {
+          // Make sure this.hash has a value before overriding default behavior
+          if (this.hash !== "") {
+            // Prevent default anchor click behavior
+            event.preventDefault();
+
+            // Store hash
+            var hash = this.hash;
+
+            // Using jQuery's animate() method to add smooth page scroll
+            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+            $("html, body").animate(
+              {
+                scrollTop: $(hash).offset().top,
+              },
+              800,
+              function () {
+                // Add hash (#) to URL when done scrolling (default click behavior)
+                window.location.hash = hash;
+              }
+            );
+          } // End if
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <!-- Header Section -->
+    <section class="db-header">
+      <div class="content">
+        <h1>Dashboard Coffee Shop Sales</h1>
+        <p>Overview of coffee shop sales performance</p>
+      </div>
+    </section>
+
+    <!-- Chart Section -->
+    <section class="chart">
+      <div class="content">
+        <h2>Sales Chart</h2>
+        <canvas id="salesChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Tabel Section -->
+    <section class="table">
+      <div class="content">
+        <h2>Sales Data Table</h2>
+        <table id="salesTable">
+          <thead>
+            <tr>
+              <th>Transaction ID</th>
+              <th>Date</th>
+              <th>Time</th>
+              <th>Quantity</th>
+              <th>Store ID</th>
+              <th>Store Location</th>
+              <th>Product ID</th>
+              <th>Unit Price</th>
+              <th>Product Category</th>
+              <th>Product Type</th>
+              <th>Product Detail</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Data akan diisi melalui JavaScript -->
+          </tbody>
+        </table>
+        <div class="btn-table">
+          <button id="prevButton" onclick="prevButtonClick()">Previous</button>
+          <button id="nextButton" onclick="nextButtonClick()">Next</button>
+        </div>
+      </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="script.js"></script>
+    <script src="dashboard.js"></script>
+  </body>
+</html>
