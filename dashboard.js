@@ -5,73 +5,6 @@ async function loadSalesData() {
   return data;
 }
 
-// Variabel untuk melacak indeks awal dan akhir data yang ditampilkan
-let startIndex = 0;
-const itemsPerPage = 10;
-
-// Fungsi untuk mengisi tabel dengan data penjualan sesuai dengan rentang indeks
-async function fillSalesTable() {
-  const rawData = await loadSalesData();
-
-  const tableBody = document.querySelector("#salesTable tbody");
-  tableBody.innerHTML = "";
-
-  // Mengambil data untuk halaman saat ini berdasarkan rentang indeks
-  const currentPageData = rawData.slice(startIndex, startIndex + itemsPerPage);
-
-  currentPageData.forEach((item) => {
-    const row = document.createElement("tr");
-    row.innerHTML = `
-            <td>${item.transaction_id}</td>
-            <td>${item.transaction_date}</td>
-            <td>${item.transaction_time}</td>
-            <td>${item.transaction_qty}</td>
-            <td>${item.store_id}</td>
-            <td>${item.store_location}</td>
-            <td>${item.product_id}</td>
-            <td>${item.unit_price}</td>
-            <td>${item.product_category}</td>
-            <td>${item.product_type}</td>
-            <td>${item.product_detail}</td>
-        `;
-    tableBody.appendChild(row);
-  });
-
-  // Menampilkan atau menyembunyikan tombol panah berikutnya sesuai dengan kondisi
-  const nextButton = document.getElementById("nextButton");
-  if (startIndex + itemsPerPage >= rawData.length) {
-    nextButton.style.display = "none";
-  } else {
-    nextButton.style.display = "block";
-  }
-
-  // Menampilkan atau menyembunyikan tombol panah sebelumnya sesuai dengan kondisi
-  const prevButton = document.getElementById("prevButton");
-  if (startIndex === 0) {
-    prevButton.style.display = "none";
-  } else {
-    prevButton.style.display = "block";
-  }
-}
-
-// Fungsi untuk menangani klik tombol panah berikutnya
-function nextButtonClick() {
-  startIndex += itemsPerPage;
-  fillSalesTable();
-}
-
-// Fungsi untuk menangani klik tombol panah sebelumnya
-function prevButtonClick() {
-  startIndex -= itemsPerPage;
-  fillSalesTable();
-}
-
-// Panggil fungsi untuk mengisi tabel saat halaman dimuat
-document.addEventListener("DOMContentLoaded", () => {
-  initChart();
-  fillSalesTable();
-});
-
 // Fungsi untuk mengolah data penjualan per bulan
 async function processMonthlySalesData() {
   const rawData = await loadSalesData();
@@ -81,7 +14,7 @@ async function processMonthlySalesData() {
     const [month, day, year] = item.transaction_date.split("/");
     const dateKey = `${year}-${month.padStart(2, "0")}`; // Membuat key dengan format 'YYYY-MM'
 
-    const quantity = parseInt(item.transaction_qty);
+    const quantity = parseInt(item.transaction_qty, 10);
     const unitPrice = parseFloat(item.unit_price.replace("$", ""));
     const totalSales = quantity * unitPrice;
 
@@ -106,7 +39,7 @@ async function initChart() {
     labels: chartData.labels,
     datasets: [
       {
-        label: "Sales Trend",
+        label: "Total Sales",
         data: chartData.data,
         backgroundColor: "rgba(182, 137, 91, 0.2)",
         borderColor: "rgba(182, 137, 91, 1)",
@@ -133,5 +66,63 @@ async function initChart() {
   const salesChart = new Chart(document.getElementById("salesChart"), config);
 }
 
-// Panggil fungsi untuk menginisialisasi chart saat halaman dimuat
-document.addEventListener("DOMContentLoaded", initChart);
+// Fungsi untuk mengolah data penjualan berdasarkan kategori
+async function processSalesDataByCategory() {
+  const rawData = await loadSalesData();
+  const salesDataByCategory = {};
+
+  rawData.forEach((item) => {
+    const category = item.product_category;
+    const quantity = parseInt(item.transaction_qty, 10);
+
+    if (salesDataByCategory[category]) {
+      salesDataByCategory[category].totalQuantity += quantity;
+    } else {
+      salesDataByCategory[category] = { totalQuantity: quantity };
+    }
+  });
+
+  return salesDataByCategory;
+}
+
+// Fungsi untuk menginisialisasi grafik Products Sold by Category
+async function initProductsSoldByCategoryChart() {
+  const salesDataByCategory = await processSalesDataByCategory();
+
+  const labels = Object.keys(salesDataByCategory);
+  const data = labels.map(
+    (category) => salesDataByCategory[category].totalQuantity
+  );
+
+  const productsSoldByCategoryData = {
+    labels: labels,
+    datasets: [
+      {
+        label: "Products Sold",
+        data: data,
+        backgroundColor: "#8b5a5a",
+      },
+    ],
+  };
+
+  const config = {
+    type: "bar",
+    data: productsSoldByCategoryData,
+    options: {
+      responsive: true,
+      scales: {
+        y: {
+          beginAtZero: true,
+        },
+      },
+    },
+  };
+
+  new Chart(document.getElementById("productsSoldByCategoryChart"), config);
+}
+
+// Panggil fungsi untuk menginisialisasi saat halaman dimuat
+document.addEventListener("DOMContentLoaded", async () => {
+  await initChart();
+  await initProductsSoldByCategoryChart();
+});
