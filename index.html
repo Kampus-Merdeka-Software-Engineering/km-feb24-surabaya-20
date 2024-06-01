@@ -18,7 +18,10 @@
     <script src="https://unpkg.com/feather-icons"></script>
 
     <!-- Style CSS -->
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="style.css" />
+
+    <!-- Animation AOS -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
 
     <!-- Cross-browser Solution | For browsers that do not support the scroll-behavior property -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -79,7 +82,7 @@
             >
           </div>
         </div>
-        <a href="#dashboard">Dashboard</a>
+        <a href="dashboard.html" target="_blank">Dashboard</a>
         <a href="#menu">Menu</a>
         <a href="#contact">Contact</a>
         <a href="#team">Team</a>
@@ -171,10 +174,6 @@
     </section>
     <!-- About Section End -->
 
-    <!-- Dashboard Section Start -->
-
-    <!-- Dashboard Section End -->
-
     <!-- Menu Section Start -->
     <section id="menu" class="menu">
       <h2><span>Menu Unggulan</span> Kami</h2>
@@ -185,7 +184,7 @@
       </p>
 
       <div class="row">
-        <div class="menu-card">
+        <div data-aos="fade-up" data-aos-duration="2000" class="menu-card">
           <img
             class="menu-card-img"
             src="assets/images/menu/earlgrey.jpg"
@@ -194,7 +193,7 @@
           <h3 class="menu-card-title">| Earl Grey |</h3>
           <p class="menu-card-price">USD $3</p>
         </div>
-        <div class="menu-card">
+        <div data-aos="fade-up" data-aos-duration="2000" class="menu-card">
           <img
             class="menu-card-img"
             src="assets/images/menu/darkchocolate.jpg"
@@ -203,7 +202,7 @@
           <h3 class="menu-card-title">| Dark Chocolate |</h3>
           <p class="menu-card-price">USD $5</p>
         </div>
-        <div class="menu-card">
+        <div data-aos="fade-up" data-aos-duration="2000" class="menu-card">
           <img
             class="menu-card-img"
             src="assets/images/menu/chaitea.webp"
@@ -212,7 +211,7 @@
           <h3 class="menu-card-title">| Morning Sunrise Chai |</h3>
           <p class="menu-card-price">USD $3</p>
         </div>
-        <div class="menu-card">
+        <div data-aos="fade-up" data-aos-duration="2000" class="menu-card">
           <img
             class="menu-card-img"
             src="assets/images/menu/latte.webp"
@@ -221,7 +220,7 @@
           <h3 class="menu-card-title">| Latte |</h3>
           <p class="menu-card-price">USD $4</p>
         </div>
-        <div class="menu-card">
+        <div data-aos="fade-up" data-aos-duration="2000" class="menu-card">
           <img
             class="menu-card-img"
             src="assets/images/menu/colombiancoffee.jpg"
@@ -285,104 +284,196 @@
       </p>
 
       <div class="row">
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/ngurah.jpg"
             alt="I Gusti Agung Ngurah Diputra Wiraguna"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">I Gusti Agung Ngurah Diputra Wiraguna</h3>
           <p class="team-card-divisi">Project leader</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/kayan.jpg"
             alt="Kayan Taryana"
           />
+          <div class="sosial">
+            <a href="https://www.linkedin.com/in/kayantaryana/" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a
+              href="https://www.instagram.com/kayantaryana/?hl=en"
+              target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Kayan Taryana</h3>
           <p class="team-card-divisi">Software Engineer</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/baity.jpg"
             alt="Nur Baiti"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Nur Baiti</h3>
           <p class="team-card-divisi">Software Engineer</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/ryo.jpg"
             alt="Ryo Lemido"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Ryo Lemido</h3>
           <p class="team-card-divisi">Software Engineer</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/evi.jpg"
             alt="Evi Agustin Nurhadiyanti"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Evi Agustin Nurhadiyanti</h3>
           <p class="team-card-divisi">Software Engineer</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/siska.jpg"
             alt="Siska Nur Agustin"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Siska Nur Agustin</h3>
           <p class="team-card-divisi">Pitch Deck Dashboard</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/team.jpg"
             alt="Agung Purnama"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Agung Purnama</h3>
           <p class="team-card-divisi">Pitch Deck Dashboard</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/team.jpg"
             alt="Febbyy Rahmalia Risky"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Febbyy Rahmalia Risky</h3>
           <p class="team-card-divisi">Pitch Deck Dashboard</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/latifa.jpg"
             alt="Latifa Zahra Agustini"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Latifa Zahra Agustini</h3>
           <p class="team-card-divisi">Deployment</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/nisa.jpg"
             alt="Annisa Ilma Nufia"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Annisa Ilma Nufia</h3>
-          <p class="team-card-divisi">Quality Assurance</p>
+          <p class="team-card-divisi">Quality</p>
+          <p class="team-card-divisi">Assurance</p>
         </div>
-        <div class="team-card">
+        <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
             src="assets/images/team/yuniar.jpg"
             alt="Yuniar Kusuma Wardani"
           />
+          <div class="sosial">
+            <a href="tautan-profil-linkedin" target="_blank"
+              ><i data-feather="linkedin"></i
+            ></a>
+            <a href="tautan-profil-instagram" target="_blank"
+              ><i data-feather="instagram"></i
+            ></a>
+          </div>
           <h3 class="team-card-title">Yuniar Kusuma Wardani</h3>
-          <p class="team-card-divisi">Quality Assurance</p>
+          <p class="team-card-divisi">Quality</p>
+          <p class="team-card-divisi">Assurance</p>
         </div>
       </div>
     </section>
@@ -402,6 +493,13 @@
     </script>
 
     <!-- Javascript -->
-    <script src="assets/js/script.js"></script>
+    <script src="script.js"></script>
+
+    <!-- AOS JS -->
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+    ;
   </body>
 </html>
