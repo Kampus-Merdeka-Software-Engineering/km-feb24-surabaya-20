@@ -35,12 +35,72 @@
     <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.2.7/js/dataTables.responsive.min.js"></script>
   </head>
-  <body>
+  <body class="dashboard">
+    <!-- navbar start -->
+    <nav class="navbar">
+      <div href="#" class="navbar-logo">
+        <img
+          href="index.html"
+          src="assets/images/logo.png"
+          alt="team 20 Section Surabaya"
+        />
+        <a>Lower <span>Manhattan</span></a>
+      </div>
+      <div class="navbar-nav">
+        <a href="index.html#home">Home</a>
+        <div class="dropdown">
+          <a href="index.html#about" class="dropbtn">About &#9662;</a>
+          <div class="dropdown-content">
+            <a class="text-drop" href="index.html#about">Capstone Project</a>
+            <a
+              class="text-drop"
+              href="https://mavenanalytics.io/data-playground?page=4"
+              target="_blank"
+              >Dataset</a
+            >
+            <a
+              class="text-drop"
+              href="https://www.canva.com/design/DAGC2AzNZAk/rOh715PGFtDZfgoSV9yJ3g/view?utm_content=DAGC2AzNZAk&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+              target="_blank"
+              >Presentation</a
+            >
+          </div>
+        </div>
+        <a href="index.html#menu">Menu</a>
+        <a href="index.html#contact">Contact</a>
+        <a href="index.html#team">Team</a>
+      </div>
+
+      <div class="navbar-extra">
+        <a href="#" id="search-button"> <i data-feather="search"></i></a>
+        <a href="#" id="hamburger-menu"> <i data-feather="menu"></i></a>
+      </div>
+
+      <!-- search form start -->
+      <div class="search-form">
+        <input type="search" id="search-box" placeholder="search here..." />
+        <label for="search-box"> <i data-feather="search"></i></label>
+      </div>
+      <!-- search form end -->
+    </nav>
+    <!-- navbar end -->
+
     <!-- Header Section -->
     <section class="db-header">
       <div class="content">
         <h1>Dashboard Coffee Shop Sales</h1>
         <p>Overview of coffee shop sales performance</p>
+
+        <!-- Dropdown for Store Location Filter -->
+        <div class="content">
+          <label for="storeLocationSelect">Select Store Location:</label>
+          <select id="storeLocationSelect">
+            <option value="All">All</option>
+            <option value="Lower Manhattan">Lower Manhattan</option>
+            <option value="Hell's Kitchen">Hell's Kitchen</option>
+            <option value="Astoria">Astoria</option>
+          </select>
+        </div>
       </div>
     </section>
 
@@ -56,6 +116,13 @@
       <div class="content">
         <h2>Products Sold by Category</h2>
         <canvas id="productsSoldByCategoryChart"></canvas>
+      </div>
+    </section>
+
+    <section class="chart">
+      <div class="content">
+        <h2>Sales Trend by Category (Week)</h2>
+        <canvas id="salesTrendByCategoryChart"></canvas>
       </div>
     </section>
 
@@ -86,16 +153,32 @@
       </div>
     </section>
 
+    <!-- footer Start -->
+    <footer>
+      <div class="credit">
+        <p>Created by <span>Tim 20 - Section Surabaya</span> | &copy; 2024.</p>
+      </div>
+    </footer>
+    <!-- footer End -->
+
+    <!-- Feather Icons -->
+    <script>
+      feather.replace();
+    </script>
+
+    <!-- Javascript -->
+    <script src="script.js"></script>
+    <script src="dashboard.js"></script>
+
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="dashboard.js"></script>
 
     <script>
       $(document).ready(function () {
         $("#salesTable").DataTable({
           responsive: true,
           ajax: {
-            url: "salesData.json",
+            url: "sales_data.json",
             dataSrc: "",
           },
           columns: [
