@@ -5,6 +5,60 @@ async function loadSalesData() {
   return data;
 }
 
+// Fungsi untuk menampilkan sales data table
+$(document).ready(function () {
+  $("#salesTable").DataTable({
+    responsive: true,
+    ajax: {
+      url: "sales_data.json",
+      dataSrc: "",
+    },
+    columns: [
+      { data: "transaction_id" },
+      { data: "transaction_date" },
+      { data: "transaction_time" },
+      { data: "transaction_qty" },
+      { data: "store_location" },
+      { data: "unit_price" },
+      { data: "product_category" },
+      { data: "product_type" },
+      { data: "product_detail" },
+    ],
+  });
+});
+
+// Fungsi untuk menampilkan messages
+document.addEventListener("DOMContentLoaded", function () {
+  const messages = JSON.parse(localStorage.getItem("messages")) || [];
+  const tbody = document.querySelector("#messagesTable tbody");
+
+  function renderMessages() {
+    tbody.innerHTML = ""; // Clear existing rows
+    messages.forEach((message, index) => {
+      const row = document.createElement("tr");
+      row.innerHTML = `
+                  <td>${message.name}</td>
+                  <td>${message.email}</td>
+                  <td>${message.phone}</td>
+                  <td>${message.message}</td>
+                  <td><button class="delete-btn" data-index="${index}">Hapus</button></td>
+              `;
+      tbody.appendChild(row);
+    });
+
+    document.querySelectorAll(".delete-btn").forEach((button) => {
+      button.addEventListener("click", function () {
+        const index = this.getAttribute("data-index");
+        messages.splice(index, 1); // Remove the message from the array
+        localStorage.setItem("messages", JSON.stringify(messages)); // Update localStorage
+        renderMessages(); // Re-render the table
+      });
+    });
+  }
+
+  renderMessages();
+});
+
 // Fungsi untuk memproses data penjualan berdasarkan filter lokasi
 function filterDataByLocation(data, location) {
   if (location === "All") {

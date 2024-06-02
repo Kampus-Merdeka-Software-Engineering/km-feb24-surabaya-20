@@ -25,34 +25,6 @@
 
     <!-- Cross-browser Solution | For browsers that do not support the scroll-behavior property -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script>
-      $(document).ready(function () {
-        // Add smooth scrolling to all links
-        $("a").on("click", function (event) {
-          // Make sure this.hash has a value before overriding default behavior
-          if (this.hash !== "") {
-            // Prevent default anchor click behavior
-            event.preventDefault();
-
-            // Store hash
-            var hash = this.hash;
-
-            // Using jQuery's animate() method to add smooth page scroll
-            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-            $("html, body").animate(
-              {
-                scrollTop: $(hash).offset().top,
-              },
-              800,
-              function () {
-                // Add hash (#) to URL when done scrolling (default click behavior)
-                window.location.hash = hash;
-              }
-            );
-          } // End if
-        });
-      });
-    </script>
   </head>
 
   <body>
@@ -246,22 +218,22 @@
           class="map"
         ></iframe>
 
-        <form action="">
+        <form id="messageForm">
           <div class="input-group">
             <i data-feather="user"></i>
-            <input type="text" placeholder="nama" />
+            <input type="text" id="name" placeholder="nama" required />
           </div>
           <div class="input-group">
             <i data-feather="mail"></i>
-            <input type="text" placeholder="email" />
+            <input type="email" id="email" placeholder="email" required />
           </div>
           <div class="input-group">
             <i data-feather="phone"></i>
-            <input type="text" placeholder="nomor telepon" />
+            <input type="tel" id="phone" placeholder="nomor telepon" required />
           </div>
           <div class="input-group">
             <i data-feather="message-circle"></i>
-            <textarea placeholder="pesan"></textarea>
+            <textarea id="message" placeholder="pesan" required></textarea>
           </div>
           <button type="submit" class="btn">Kirim Pesan</button>
         </form>
@@ -387,8 +359,13 @@
         <div data-aos="zoom-in" data-aos-duration="2000" class="team-card">
           <img
             class="team-card-img"
+<<<<<<< HEAD
             src="assets/images/team/team.jpg"
             alt="Agung Permana"
+=======
+            src="assets/images/team/agung.jpg"
+            alt="Agung Purnama"
+>>>>>>> coffee_kayan
           />
           <div class="sosial">
             <a href="tautan-profil-linkedin" target="_blank"
