@@ -47,28 +47,10 @@
         <a>Lower <span>Manhattan</span></a>
       </div>
       <div class="navbar-nav">
-        <a href="index.html#home">Home</a>
-        <div class="dropdown">
-          <a href="index.html#about" class="dropbtn">About &#9662;</a>
-          <div class="dropdown-content">
-            <a class="text-drop" href="index.html#about">Capstone Project</a>
-            <a
-              class="text-drop"
-              href="https://mavenanalytics.io/data-playground?page=4"
-              target="_blank"
-              >Dataset</a
-            >
-            <a
-              class="text-drop"
-              href="https://www.canva.com/design/DAGC2AzNZAk/rOh715PGFtDZfgoSV9yJ3g/view?utm_content=DAGC2AzNZAk&utm_campaign=designshare&utm_medium=link&utm_source=editor"
-              target="_blank"
-              >Presentation</a
-            >
-          </div>
-        </div>
-        <a href="index.html#menu">Menu</a>
-        <a href="index.html#contact">Contact</a>
-        <a href="index.html#team">Team</a>
+        <a href="index.html">Home</a>
+        <a href="#dashboardHeader">Dashboard</a>
+        <a href="#sales_table">Table</a>
+        <a href="#messages">Message</a>
       </div>
 
       <div class="navbar-extra">
@@ -86,7 +68,7 @@
     <!-- navbar end -->
 
     <!-- Header Section -->
-    <section class="db-header">
+    <section id="dashboardHeader" class="db-header">
       <div class="content">
         <h1>Dashboard Coffee Shop Sales</h1>
         <p>Overview of coffee shop sales performance</p>
@@ -127,7 +109,7 @@
     </section>
 
     <!-- Table Section -->
-    <section class="table">
+    <section id="sales_table" class="table">
       <div class="content">
         <h2>Sales Data Table</h2>
         <div class="table-responsive">
@@ -153,6 +135,29 @@
       </div>
     </section>
 
+    <!-- Section to display messages -->
+    <section id="messages" class="messages-section">
+      <div class="content">
+        <h2>Pesan Masuk</h2>
+        <div class="table-responsive">
+          <table id="messagesTable" class="display nowrap" style="width: 100%">
+            <thead>
+              <tr>
+                <th>Nama</th>
+                <th>Email</th>
+                <th>Nomor Telepon</th>
+                <th>Pesan</th>
+                <th>Hapus</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Data akan diisi via JavaScript -->
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
     <!-- footer Start -->
     <footer>
       <div class="credit">
@@ -172,28 +177,5 @@
 
     <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-    <script>
-      $(document).ready(function () {
-        $("#salesTable").DataTable({
-          responsive: true,
-          ajax: {
-            url: "sales_data.json",
-            dataSrc: "",
-          },
-          columns: [
-            { data: "transaction_id" },
-            { data: "transaction_date" },
-            { data: "transaction_time" },
-            { data: "transaction_qty" },
-            { data: "store_location" },
-            { data: "unit_price" },
-            { data: "product_category" },
-            { data: "product_type" },
-            { data: "product_detail" },
-          ],
-        });
-      });
-    </script>
   </body>
 </html>
