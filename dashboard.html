@@ -36,6 +36,13 @@
     <script src="https://cdn.datatables.net/responsive/2.2.7/js/dataTables.responsive.min.js"></script>
   </head>
   <body class="dashboard">
+    <script>
+      // Periksa status login saat halaman dimuat
+      if (localStorage.getItem("isLoggedIn") !== "true") {
+        // Jika belum masuk, alihkan ke halaman login
+        window.location.href = "login.html";
+      }
+    </script>
     <!-- navbar start -->
     <nav class="navbar">
       <div href="#" class="navbar-logo">
@@ -51,10 +58,10 @@
         <a href="#dashboardHeader">Dashboard</a>
         <a href="#sales_table">Table</a>
         <a href="#messages">Message</a>
+        <a href="#" id="logout">Logout</a>
       </div>
 
       <div class="navbar-extra">
-        <a href="#" id="search-button"> <i data-feather="search"></i></a>
         <a href="#" id="hamburger-menu"> <i data-feather="menu"></i></a>
       </div>
 
@@ -138,7 +145,7 @@
     <!-- Section to display messages -->
     <section id="messages" class="messages-section">
       <div class="content">
-        <h2>Pesan Masuk</h2>
+        <h2>Incoming Messages</h2>
         <div class="table-responsive">
           <table id="messagesTable" class="display nowrap" style="width: 100%">
             <thead>
