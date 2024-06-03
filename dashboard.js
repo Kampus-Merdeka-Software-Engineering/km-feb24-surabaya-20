@@ -59,6 +59,12 @@ document.addEventListener("DOMContentLoaded", function () {
   renderMessages();
 });
 
+$(document).ready(function () {
+  $("#messagesTable").DataTable({
+    responsive: true,
+  });
+});
+
 // Fungsi untuk memproses data penjualan berdasarkan filter lokasi
 function filterDataByLocation(data, location) {
   if (location === "All") {
