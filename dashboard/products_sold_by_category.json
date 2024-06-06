@@ -1,0 +1,38 @@
+[
+  {
+    "product_category": "Coffee",
+    "total_product_sold": "88541"
+  },
+  {
+    "product_category": "Tea",
+    "total_product_sold": "69231"
+  },
+  {
+    "product_category": "Bakery",
+    "total_product_sold": "23056"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "total_product_sold": "17315"
+  },
+  {
+    "product_category": "Flavours",
+    "total_product_sold": "10467"
+  },
+  {
+    "product_category": "Coffee beans",
+    "total_product_sold": "1815"
+  },
+  {
+    "product_category": "Loose Tea",
+    "total_product_sold": "1202"
+  },
+  {
+    "product_category": "Branded",
+    "total_product_sold": "773"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "total_product_sold": "484"
+  }
+]

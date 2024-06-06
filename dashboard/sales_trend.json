@@ -1,0 +1,92 @@
+[
+  {
+    "store_location": "Astoria",
+    "month_year": "2023-01",
+    "total_sales": "27313.659999999541"
+  },
+  {
+    "store_location": "Astoria",
+    "month_year": "2023-02",
+    "total_sales": "25105.339999999578"
+  },
+  {
+    "store_location": "Astoria",
+    "month_year": "2023-03",
+    "total_sales": "32835.429999999709"
+  },
+  {
+    "store_location": "Astoria",
+    "month_year": "2023-04",
+    "total_sales": "39477.610000000073"
+  },
+  {
+    "store_location": "Astoria",
+    "month_year": "2023-05",
+    "total_sales": "52428.760000000031"
+  },
+  {
+    "store_location": "Astoria",
+    "month_year": "2023-06",
+    "total_sales": "53450.660000000069"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "month_year": "2023-01",
+    "total_sales": "27820.649999999485"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "month_year": "2023-02",
+    "total_sales": "25719.799999999443"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "month_year": "2023-03",
+    "total_sales": "33110.5699999993"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "month_year": "2023-04",
+    "total_sales": "40304.13999999997"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "month_year": "2023-05",
+    "total_sales": "52598.929999999869"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "month_year": "2023-06",
+    "total_sales": "55401.030000000166"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "month_year": "2023-01",
+    "total_sales": "26543.42999999948"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "month_year": "2023-02",
+    "total_sales": "25320.049999999519"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "month_year": "2023-03",
+    "total_sales": "32888.6799999995"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "month_year": "2023-04",
+    "total_sales": "39159.329999999572"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "month_year": "2023-05",
+    "total_sales": "51700.0700000002"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "month_year": "2023-06",
+    "total_sales": "52567.540000000175"
+  }
+]

@@ -1,0 +1,1187 @@
+[
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W01",
+    "total_sales": "2000.0"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W01",
+    "total_sales": "28.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W01",
+    "total_sales": "7310.3999999999733"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W01",
+    "total_sales": "450.09999999999997"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W01",
+    "total_sales": "1891.0"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W01",
+    "total_sales": "75.999999999999972"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W01",
+    "total_sales": "102.15"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W01",
+    "total_sales": "33.73"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W01",
+    "total_sales": "5247.9500000000062"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W02",
+    "total_sales": "2374.0400000000009"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W02",
+    "total_sales": "645.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W02",
+    "total_sales": "6762.9499999999753"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W02",
+    "total_sales": "1330.7500000000002"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W02",
+    "total_sales": "1845.75"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W02",
+    "total_sales": "367.20000000000147"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W02",
+    "total_sales": "462.84999999999968"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W02",
+    "total_sales": "260.24"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W02",
+    "total_sales": "5080.7500000000036"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W03",
+    "total_sales": "2256.3500000000004"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W03",
+    "total_sales": "765.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W03",
+    "total_sales": "6779.29999999999"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W03",
+    "total_sales": "2334.7"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W03",
+    "total_sales": "1878.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W03",
+    "total_sales": "358.40000000000134"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W03",
+    "total_sales": "392.8499999999998"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W03",
+    "total_sales": "159.30999999999997"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W03",
+    "total_sales": "4894.100000000004"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W04",
+    "total_sales": "2071.2999999999997"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W04",
+    "total_sales": "246.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W04",
+    "total_sales": "7603.9499999999944"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W04",
+    "total_sales": "587.34999999999991"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W04",
+    "total_sales": "2011.75"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W04",
+    "total_sales": "123.1999999999998"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W04",
+    "total_sales": "191.64999999999995"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W04",
+    "total_sales": "47.73"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W04",
+    "total_sales": "5388.7000000000071"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W05",
+    "total_sales": "2066.5600000000004"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W05",
+    "total_sales": "206.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W05",
+    "total_sales": "6908.1499999999778"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W05",
+    "total_sales": "542.34999999999991"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W05",
+    "total_sales": "1899.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W05",
+    "total_sales": "49.600000000000016"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W05",
+    "total_sales": "144.35000000000002"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W05",
+    "total_sales": "20.93"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W05",
+    "total_sales": "5394.1500000000033"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W06",
+    "total_sales": "2230.2200000000007"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W06",
+    "total_sales": "230.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W06",
+    "total_sales": "6920.8499999999722"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W06",
+    "total_sales": "1116.4"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W06",
+    "total_sales": "1890.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W06",
+    "total_sales": "285.60000000000042"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W06",
+    "total_sales": "354.89999999999975"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W06",
+    "total_sales": "208.38000000000002"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W06",
+    "total_sales": "5096.7500000000055"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W07",
+    "total_sales": "2373.0"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W07",
+    "total_sales": "599.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W07",
+    "total_sales": "7148.14999999999"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W07",
+    "total_sales": "1572.3500000000001"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W07",
+    "total_sales": "2127.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W07",
+    "total_sales": "376.80000000000183"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W07",
+    "total_sales": "534.14999999999975"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W07",
+    "total_sales": "124.52"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W07",
+    "total_sales": "5001.400000000006"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W08",
+    "total_sales": "2380.2500000000009"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W08",
+    "total_sales": "342.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W08",
+    "total_sales": "7680.9999999999973"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W08",
+    "total_sales": "1225.25"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W08",
+    "total_sales": "2028.0"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W08",
+    "total_sales": "225.59999999999985"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W08",
+    "total_sales": "370.59999999999985"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W08",
+    "total_sales": "105.32"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W08",
+    "total_sales": "5705.0500000000075"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W09",
+    "total_sales": "2256.1000000000004"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W09",
+    "total_sales": "64.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W09",
+    "total_sales": "8656.0499999999756"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W09",
+    "total_sales": "163.5"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W09",
+    "total_sales": "2435.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W09",
+    "total_sales": "42.400000000000006"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W09",
+    "total_sales": "18.2"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W09",
+    "total_sales": "12.8"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W09",
+    "total_sales": "6741.4500000000244"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W10",
+    "total_sales": "2703.6600000000008"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W10",
+    "total_sales": "432.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W10",
+    "total_sales": "8331.3999999999687"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W10",
+    "total_sales": "1533.2500000000002"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W10",
+    "total_sales": "2155.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W10",
+    "total_sales": "360.00000000000153"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W10",
+    "total_sales": "446.89999999999975"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W10",
+    "total_sales": "194.38000000000002"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W10",
+    "total_sales": "5989.2500000000045"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W11",
+    "total_sales": "2799.0"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W11",
+    "total_sales": "893.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W11",
+    "total_sales": "8369.9499999999844"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W11",
+    "total_sales": "1988.8000000000002"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "2178.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W11",
+    "total_sales": "424.80000000000251"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W11",
+    "total_sales": "599.34999999999991"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "228.64000000000001"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W11",
+    "total_sales": "6112.5500000000056"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W12",
+    "total_sales": "2825.4500000000012"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W12",
+    "total_sales": "396.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W12",
+    "total_sales": "8978.35"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W12",
+    "total_sales": "1271.9500000000003"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "2497.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W12",
+    "total_sales": "272.00000000000017"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W12",
+    "total_sales": "446.24999999999972"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "122.64999999999999"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W12",
+    "total_sales": "6585.1500000000115"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W13",
+    "total_sales": "2726.4700000000007"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W13",
+    "total_sales": "80.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W13",
+    "total_sales": "9521.1999999999862"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W13",
+    "total_sales": "462.2"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W13",
+    "total_sales": "2393.75"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W13",
+    "total_sales": "115.19999999999982"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W13",
+    "total_sales": "154.45"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W13",
+    "total_sales": "42.53"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W13",
+    "total_sales": "6559.7500000000218"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W14",
+    "total_sales": "3077.670000000001"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W14",
+    "total_sales": "260.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W14",
+    "total_sales": "10344.94999999999"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W14",
+    "total_sales": "1036.5500000000002"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W14",
+    "total_sales": "2905.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W14",
+    "total_sales": "153.59999999999991"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W14",
+    "total_sales": "332.94999999999982"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W14",
+    "total_sales": "102.91999999999999"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W14",
+    "total_sales": "7865.7500000000282"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W15",
+    "total_sales": "3550.0"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W15",
+    "total_sales": "992.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W15",
+    "total_sales": "10361.099999999982"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W15",
+    "total_sales": "2053.9"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W15",
+    "total_sales": "2874.0"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W15",
+    "total_sales": "583.20000000000255"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W15",
+    "total_sales": "687.50000000000011"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W15",
+    "total_sales": "386.75000000000011"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W15",
+    "total_sales": "7492.85000000002"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W16",
+    "total_sales": "3345.0000000000009"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W16",
+    "total_sales": "839.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W16",
+    "total_sales": "10578.95000000003"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W16",
+    "total_sales": "2917.7"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W16",
+    "total_sales": "2649.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W16",
+    "total_sales": "440.00000000000261"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W16",
+    "total_sales": "539.64999999999975"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W16",
+    "total_sales": "313.56000000000012"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W16",
+    "total_sales": "7594.1500000000169"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W17",
+    "total_sales": "3222.2800000000011"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W17",
+    "total_sales": "288.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W17",
+    "total_sales": "11383.800000000014"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W17",
+    "total_sales": "816.55"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W17",
+    "total_sales": "3033.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W17",
+    "total_sales": "241.6"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W17",
+    "total_sales": "269.0499999999999"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W17",
+    "total_sales": "70.0"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W17",
+    "total_sales": "8062.100000000014"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W18",
+    "total_sales": "3815.25"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W18",
+    "total_sales": "13596.100000000009"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W18",
+    "total_sales": "221.89999999999998"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W18",
+    "total_sales": "3880.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W18",
+    "total_sales": "65.6"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W18",
+    "total_sales": "17.9"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W18",
+    "total_sales": "34.4"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W18",
+    "total_sales": "10478.700000000024"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W19",
+    "total_sales": "4601.420000000001"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W19",
+    "total_sales": "905.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W19",
+    "total_sales": "13072.750000000009"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W19",
+    "total_sales": "2523.1500000000005"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W19",
+    "total_sales": "3335.0"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W19",
+    "total_sales": "706.4000000000002"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W19",
+    "total_sales": "955.65000000000146"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W19",
+    "total_sales": "435.01000000000016"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W19",
+    "total_sales": "9522.5000000000382"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W20",
+    "total_sales": "4496.5"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W20",
+    "total_sales": "1404.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W20",
+    "total_sales": "13325.600000000026"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W20",
+    "total_sales": "3845.9999999999991"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W20",
+    "total_sales": "3804.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W20",
+    "total_sales": "694.40000000000214"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W20",
+    "total_sales": "898.55000000000109"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W20",
+    "total_sales": "310.89999999999992"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W20",
+    "total_sales": "9696.3500000000258"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W21",
+    "total_sales": "3942.9000000000019"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W21",
+    "total_sales": "334.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W21",
+    "total_sales": "15073.80000000007"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W21",
+    "total_sales": "1543.7000000000003"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W21",
+    "total_sales": "3944.75"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W21",
+    "total_sales": "308.0000000000008"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W21",
+    "total_sales": "339.49999999999983"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W21",
+    "total_sales": "116.92"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W21",
+    "total_sales": "11001.550000000016"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W22",
+    "total_sales": "3947.7"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W22",
+    "total_sales": "246.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W22",
+    "total_sales": "14218.300000000007"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W22",
+    "total_sales": "634.2"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W22",
+    "total_sales": "3884.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W22",
+    "total_sales": "131.19999999999979"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W22",
+    "total_sales": "183.54999999999995"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W22",
+    "total_sales": "83.859999999999985"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W22",
+    "total_sales": "10585.350000000029"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W23",
+    "total_sales": "4467.9400000000014"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W23",
+    "total_sales": "714.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W23",
+    "total_sales": "14496.800000000005"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W23",
+    "total_sales": "1979.9000000000003"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W23",
+    "total_sales": "3695.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W23",
+    "total_sales": "455.20000000000277"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W23",
+    "total_sales": "744.35000000000059"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W23",
+    "total_sales": "290.36999999999995"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W23",
+    "total_sales": "10613.200000000021"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W24",
+    "total_sales": "4817.5"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W24",
+    "total_sales": "1438.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W24",
+    "total_sales": "14593.95"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W24",
+    "total_sales": "4263.6499999999987"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W24",
+    "total_sales": "3906.5"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W24",
+    "total_sales": "794.40000000000123"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W24",
+    "total_sales": "1048.8000000000018"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W24",
+    "total_sales": "375.29000000000019"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W24",
+    "total_sales": "10077.850000000035"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W25",
+    "total_sales": "4293.5500000000011"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W25",
+    "total_sales": "957.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W25",
+    "total_sales": "14096.250000000073"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W25",
+    "total_sales": "2493.5"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W25",
+    "total_sales": "3742.75"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W25",
+    "total_sales": "505.60000000000343"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W25",
+    "total_sales": "723.00000000000045"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W25",
+    "total_sales": "208.91000000000003"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W25",
+    "total_sales": "9961.7000000000135"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W26",
+    "total_sales": "2881.0300000000007"
+  },
+  {
+    "product_category": "Branded",
+    "year_week": "2023 W26",
+    "total_sales": "262.0"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W26",
+    "total_sales": "10591.300000000007"
+  },
+  {
+    "product_category": "Coffee beans",
+    "year_week": "2023 W26",
+    "total_sales": "939.5"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W26",
+    "total_sales": "2649.25"
+  },
+  {
+    "product_category": "Flavours",
+    "year_week": "2023 W26",
+    "total_sales": "217.6"
+  },
+  {
+    "product_category": "Loose Tea",
+    "year_week": "2023 W26",
+    "total_sales": "180.05"
+  },
+  {
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W26",
+    "total_sales": "95.989999999999981"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W26",
+    "total_sales": "7411.7500000000191"
+  },
+  {
+    "product_category": "Bakery",
+    "year_week": "2023 W52",
+    "total_sales": "241.5"
+  },
+  {
+    "product_category": "Coffee",
+    "year_week": "2023 W52",
+    "total_sales": "1160.1000000000001"
+  },
+  {
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W52",
+    "total_sales": "295.5"
+  },
+  {
+    "product_category": "Tea",
+    "year_week": "2023 W52",
+    "total_sales": "811.10000000000036"
+  }
+]
