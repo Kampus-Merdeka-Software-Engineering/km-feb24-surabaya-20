@@ -127,40 +127,6 @@ body {
   display: none;
 }
 
-/* Navbar search form */
-.navbar .search-form {
-  position: absolute;
-  top: 100%;
-  right: 7%;
-  background-color: #fff;
-  width: 50rem;
-  height: 5rem;
-  display: flex;
-  align-items: center;
-  transform: scaleY(0);
-  transform-origin: top;
-  transition: 0.3s;
-}
-
-.navbar .search-form.active {
-  transform: scaleY(1);
-}
-
-.navbar .search-form input {
-  height: 100%;
-  width: 100%;
-  font-size: 1.6rem;
-  color: var(--bg);
-  padding: 1rem;
-}
-
-.navbar .search-form label {
-  cursor: pointer;
-  font-size: 2rem;
-  margin-right: 1.5rem;
-  color: var(--bg);
-}
-
 /* Hero Section */
 .hero {
   min-height: 100vh;
@@ -174,16 +140,16 @@ body {
 
 @keyframes changeBackground {
   0% {
-    background-image: url(assets/images/header-bg1.jpg);
+    background-image: url(assets/header-bg1.jpg);
   }
   33.33% {
-    background-image: url(assets/images/header-bg2.jpg);
+    background-image: url(assets/header-bg2.jpg);
   }
   66.67% {
-    background-image: url(assets/images/header-bg3.jpg);
+    background-image: url(assets/header-bg3.jpg);
   }
   100% {
-    background-image: url(assets/images/header-bg1.jpg);
+    background-image: url(assets/header-bg1.jpg);
   }
 }
 
@@ -486,260 +452,6 @@ footer .credit span {
   font-weight: 700;
 }
 
-/* style untuk form login */
-.login {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  margin-left: 0;
-  background-image: url(assets/images/login-bg.jpg);
-  background-size: cover;
-  background-position: center;
-}
-
-.login-container {
-  background-color: var(--bg-light);
-  padding: 20px;
-  box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-  border-radius: 5px;
-  width: 300px;
-  text-align: center;
-}
-
-.login-container h2 {
-  margin-bottom: 20px;
-}
-
-.login-container label {
-  display: block;
-  margin-bottom: 5px;
-}
-
-.login-container input {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 15px;
-  border: 1px solid #ccc;
-  border-radius: 3px;
-}
-
-.login-container button {
-  width: 100%;
-  padding: 10px;
-  background-color: var(--primary);
-  border: none;
-  border-radius: 3px;
-  color: #fff;
-  font-size: 16px;
-}
-
-.login-container button:hover {
-  background-color: rgb(0, 110, 255);
-}
-
-.home-icon {
-  margin-top: 2rem;
-}
-.home-icon a {
-  color: var(--primary);
-}
-
-.home-icon a:hover {
-  color: rgb(0, 110, 255);
-}
-
-.modal {
-  display: none;
-  position: fixed;
-  z-index: 1;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background-color: rgb(0, 0, 0);
-  background-color: rgba(0, 0, 0, 0.4);
-  justify-content: center;
-  align-items: center;
-}
-
-.modal-content {
-  background-color: #fefefe;
-  padding: 20px;
-  width: 80%;
-  max-width: 300px;
-  border-radius: 5px;
-  text-align: center;
-}
-
-.modal-content p {
-  color: red;
-  padding: 1rem;
-  font-size: 11px;
-}
-
-.close-button {
-  color: #aaa;
-  float: right;
-  font-size: 28px;
-  font-weight: bold;
-}
-
-.close-button:hover,
-.close-button:focus {
-  color: black;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/* style untuk halaman dashboard */
-/* Header Section */
-.db-header {
-  padding: 8rem 7%;
-  color: var(--bg-light);
-  text-align: center;
-  background-size: cover;
-  background-position: center;
-  position: relative;
-  animation: changeBackground 15s infinite;
-}
-
-.db-header .content {
-  max-width: 60rem;
-  margin-top: 4rem;
-  text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-}
-
-.db-header h1 {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-  color: var(--primary);
-}
-
-.db-header p {
-  font-size: 1.5rem;
-  margin-top: 1rem;
-}
-
-.db-header label {
-  font-size: 15px;
-}
-
-/* Chart Section */
-.dashboard {
-  background-color: var(--primary);
-}
-.chart {
-  padding: 4rem 7%;
-  background-color: var(--bg-light);
-  margin: 4rem 2rem;
-  border-radius: 15px;
-  box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-}
-
-.chart .content {
-  max-width: 60rem;
-  margin: auto;
-  text-align: center;
-}
-
-.chart h2 {
-  font-size: 2.5rem;
-  margin-bottom: 2rem;
-  color: var(--bg);
-}
-
-/* Tabel Section */
-.table {
-  padding: 4rem 7%;
-  background-color: var(--bg-light);
-  margin: 0 2rem;
-  border-radius: 15px;
-  box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-}
-
-.table .content {
-  max-width: 60rem;
-  margin: auto;
-  text-align: center;
-}
-
-.table h2 {
-  font-size: 2.5rem;
-  margin-bottom: 2rem;
-  color: var(--bg);
-}
-
-.table table {
-  border-collapse: collapse;
-  width: 100%;
-}
-.table th,
-td {
-  border: 1px solid var(--primary);
-  padding: 8px;
-  text-align: center;
-}
-
-/* Style for the messages table section */
-.messages-section {
-  padding: 4rem 7%;
-  background-color: var(--bg-light);
-  margin: 0 2rem;
-  border-radius: 15px;
-  margin-top: 4rem;
-  box-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-}
-
-.messages-section .content {
-  max-width: 60rem;
-  margin: auto;
-  text-align: center;
-}
-
-.messages-section h2 {
-  font-size: 2.5rem;
-  margin-bottom: 2rem;
-  color: var(--bg);
-}
-
-.messages-section table {
-  border-collapse: collapse;
-  width: 100%;
-  margin-top: 1rem;
-}
-
-.messages-section th,
-.messages-section td {
-  border: 1px solid var(--primary);
-  padding: 8px;
-  text-align: center;
-}
-
-.messages-section th {
-  background-color: var(--primary);
-  color: white;
-}
-
-.messages-section td {
-  background-color: white;
-  color: var(--bg);
-}
-
-.messages-section .delete-btn {
-  background-color: var(--primary);
-  color: white;
-  border: none;
-  padding: 5px 10px;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-.messages-section .delete-btn:hover {
-  background-color: red;
-}
-
 /* Media Queries */
 
 /* Laptop */
@@ -797,11 +509,6 @@ td {
 
   .dropdown-content {
     position: relative;
-  }
-
-  .navbar .search-form {
-    width: 90%;
-    right: 2rem;
   }
 
   .about .row {
