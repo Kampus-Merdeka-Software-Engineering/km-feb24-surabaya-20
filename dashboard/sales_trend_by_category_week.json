@@ -1248,30 +1248,6 @@
     "total_sales": "2913.9999999999932"
   },
   {
-    "store_location": "Astoria",
-    "product_category": "Bakery",
-    "year_week": "2023 W52",
-    "total_sales": "61.0"
-  },
-  {
-    "store_location": "Astoria",
-    "product_category": "Coffee",
-    "year_week": "2023 W52",
-    "total_sales": "381.79999999999995"
-  },
-  {
-    "store_location": "Astoria",
-    "product_category": "Drinking Chocolate",
-    "year_week": "2023 W52",
-    "total_sales": "142.5"
-  },
-  {
-    "store_location": "Astoria",
-    "product_category": "Tea",
-    "year_week": "2023 W52",
-    "total_sales": "283.10000000000014"
-  },
-  {
     "store_location": "Hell\u0027s Kitchen",
     "product_category": "Bakery",
     "year_week": "2023 W01",
@@ -2590,30 +2566,6 @@
     "product_category": "Tea",
     "year_week": "2023 W26",
     "total_sales": "2113.2999999999947"
-  },
-  {
-    "store_location": "Hell\u0027s Kitchen",
-    "product_category": "Bakery",
-    "year_week": "2023 W52",
-    "total_sales": "65.25"
-  },
-  {
-    "store_location": "Hell\u0027s Kitchen",
-    "product_category": "Coffee",
-    "year_week": "2023 W52",
-    "total_sales": "427.04999999999995"
-  },
-  {
-    "store_location": "Hell\u0027s Kitchen",
-    "product_category": "Drinking Chocolate",
-    "year_week": "2023 W52",
-    "total_sales": "71.75"
-  },
-  {
-    "store_location": "Hell\u0027s Kitchen",
-    "product_category": "Tea",
-    "year_week": "2023 W52",
-    "total_sales": "287.40000000000003"
   },
   {
     "store_location": "Lower Manhattan",
@@ -4012,29 +3964,5 @@
     "product_category": "Tea",
     "year_week": "2023 W26",
     "total_sales": "2384.4499999999994"
-  },
-  {
-    "store_location": "Lower Manhattan",
-    "product_category": "Bakery",
-    "year_week": "2023 W52",
-    "total_sales": "115.25"
-  },
-  {
-    "store_location": "Lower Manhattan",
-    "product_category": "Coffee",
-    "year_week": "2023 W52",
-    "total_sales": "351.25"
-  },
-  {
-    "store_location": "Lower Manhattan",
-    "product_category": "Drinking Chocolate",
-    "year_week": "2023 W52",
-    "total_sales": "81.25"
-  },
-  {
-    "store_location": "Lower Manhattan",
-    "product_category": "Tea",
-    "year_week": "2023 W52",
-    "total_sales": "240.59999999999997"
   }
 ]
