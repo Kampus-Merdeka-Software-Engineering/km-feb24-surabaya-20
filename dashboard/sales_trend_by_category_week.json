@@ -1,1187 +1,3968 @@
 [
   {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "year_week": "2023 W01",
-    "total_sales": "2000.0"
+    "total_sales": "747.0"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Branded",
     "year_week": "2023 W01",
+    "total_sales": "14.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W01",
+    "total_sales": "2386.8500000000022"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W01",
+    "total_sales": "42.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W01",
+    "total_sales": "765.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W01",
+    "total_sales": "47.05"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W01",
+    "total_sales": "1852.6499999999965"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W02",
+    "total_sales": "677.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W02",
+    "total_sales": "269.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W02",
+    "total_sales": "2068.4500000000016"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W02",
+    "total_sales": "453.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W02",
+    "total_sales": "557.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W02",
+    "total_sales": "98.399999999999878"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W02",
+    "total_sales": "140.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W02",
+    "total_sales": "77.99"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W02",
+    "total_sales": "1597.6999999999971"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W03",
+    "total_sales": "771.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W03",
+    "total_sales": "493.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W03",
+    "total_sales": "2216.1000000000022"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W03",
+    "total_sales": "601.09999999999991"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W03",
+    "total_sales": "720.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W03",
+    "total_sales": "103.19999999999986"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W03",
+    "total_sales": "136.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W03",
+    "total_sales": "76.11999999999999"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W03",
+    "total_sales": "1734.1999999999966"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W04",
+    "total_sales": "662.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W04",
+    "total_sales": "2717.700000000003"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W04",
+    "total_sales": "798.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W04",
+    "total_sales": "1945.149999999998"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W05",
+    "total_sales": "717.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W05",
+    "total_sales": "82.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W05",
+    "total_sales": "2484.8500000000022"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W05",
+    "total_sales": "163.7"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W05",
+    "total_sales": "695.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W05",
+    "total_sales": "15.200000000000003"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W05",
+    "total_sales": "71.9"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W05",
+    "total_sales": "1857.3499999999976"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W06",
+    "total_sales": "659.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W06",
+    "total_sales": "94.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W06",
+    "total_sales": "2002.4500000000005"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W06",
+    "total_sales": "256.95"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W06",
+    "total_sales": "660.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W06",
+    "total_sales": "56.000000000000014"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W06",
+    "total_sales": "129.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W06",
+    "total_sales": "35.6"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W06",
+    "total_sales": "1579.8999999999962"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W07",
+    "total_sales": "776.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W07",
+    "total_sales": "325.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W07",
+    "total_sales": "2498.0000000000018"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W07",
+    "total_sales": "555.34999999999991"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W07",
+    "total_sales": "798.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W07",
+    "total_sales": "119.19999999999979"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W07",
+    "total_sales": "139.1"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W07",
+    "total_sales": "28.53"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W07",
+    "total_sales": "1796.7999999999972"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W08",
+    "total_sales": "772.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W08",
+    "total_sales": "56.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W08",
+    "total_sales": "2613.6500000000024"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W08",
+    "total_sales": "221.9"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W08",
+    "total_sales": "755.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W08",
+    "total_sales": "29.600000000000012"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W08",
+    "total_sales": "74.45"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W08",
+    "total_sales": "34.26"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W08",
+    "total_sales": "1847.1999999999975"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W09",
+    "total_sales": "779.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W09",
+    "total_sales": "2973.7000000000035"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W09",
+    "total_sales": "871.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W09",
+    "total_sales": "2526.5499999999993"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W10",
+    "total_sales": "911.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W10",
+    "total_sales": "132.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W10",
+    "total_sales": "2378.2500000000018"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W10",
+    "total_sales": "432.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W10",
+    "total_sales": "652.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W10",
+    "total_sales": "57.600000000000016"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W10",
+    "total_sales": "122.9"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W10",
+    "total_sales": "70.39"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W10",
+    "total_sales": "1755.3999999999974"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W11",
+    "total_sales": "849.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W11",
+    "total_sales": "575.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W11",
+    "total_sales": "2882.3500000000031"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W11",
+    "total_sales": "816.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "769.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W11",
+    "total_sales": "132.79999999999978"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W11",
+    "total_sales": "185.8"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "34.26"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W11",
+    "total_sales": "2270.2999999999965"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W12",
+    "total_sales": "933.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W12",
+    "total_sales": "40.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W12",
+    "total_sales": "3046.7500000000027"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W12",
+    "total_sales": "286.9"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "849.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W12",
+    "total_sales": "29.600000000000012"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W12",
+    "total_sales": "110.85000000000001"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "27.33"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W12",
+    "total_sales": "2166.949999999993"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W13",
+    "total_sales": "880.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W13",
+    "total_sales": "12.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W13",
+    "total_sales": "3265.5500000000043"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W13",
+    "total_sales": "36.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W13",
+    "total_sales": "889.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W13",
+    "total_sales": "22.400000000000006"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W13",
+    "total_sales": "54.849999999999994"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W13",
+    "total_sales": "2446.2999999999961"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W14",
+    "total_sales": "1124.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W14",
+    "total_sales": "54.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W14",
+    "total_sales": "3350.0500000000029"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W14",
+    "total_sales": "285.7"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W14",
+    "total_sales": "1072.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W14",
+    "total_sales": "3.2"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W14",
+    "total_sales": "111.95000000000002"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W14",
+    "total_sales": "40.66"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W14",
+    "total_sales": "2649.399999999996"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W15",
+    "total_sales": "943.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W15",
+    "total_sales": "402.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W15",
+    "total_sales": "3291.950000000003"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W15",
+    "total_sales": "527.15"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W15",
+    "total_sales": "967.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W15",
+    "total_sales": "163.19999999999985"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W15",
+    "total_sales": "208.24999999999997"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W15",
+    "total_sales": "103.45"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W15",
+    "total_sales": "2372.3499999999958"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W16",
+    "total_sales": "1097.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W16",
+    "total_sales": "487.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W16",
+    "total_sales": "3507.8000000000006"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W16",
+    "total_sales": "782.34999999999991"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W16",
+    "total_sales": "965.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W16",
+    "total_sales": "108.79999999999984"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W16",
+    "total_sales": "211.84999999999997"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W16",
+    "total_sales": "103.45"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W16",
+    "total_sales": "2569.1499999999951"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W17",
+    "total_sales": "991.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W17",
+    "total_sales": "14.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W17",
+    "total_sales": "3975.8499999999949"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W17",
+    "total_sales": "98.45"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W17",
+    "total_sales": "1263.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W17",
+    "total_sales": "12.8"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W17",
+    "total_sales": "27.15"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W17",
+    "total_sales": "2922.5499999999947"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W18",
+    "total_sales": "1420.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W18",
+    "total_sales": "4726.4999999999909"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W18",
+    "total_sales": "1463.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W18",
+    "total_sales": "3713.1999999999953"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W19",
+    "total_sales": "1297.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W19",
+    "total_sales": "289.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W19",
+    "total_sales": "3619.6000000000017"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W19",
+    "total_sales": "637.2"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W19",
+    "total_sales": "1092.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W19",
+    "total_sales": "159.99999999999977"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W19",
+    "total_sales": "281.34999999999997"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W19",
+    "total_sales": "102.92"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W19",
+    "total_sales": "2919.0499999999952"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W20",
+    "total_sales": "1572.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W20",
+    "total_sales": "670.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W20",
+    "total_sales": "4495.2499999999964"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W20",
+    "total_sales": "1507.8999999999999"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W20",
+    "total_sales": "1337.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W20",
+    "total_sales": "216.80000000000018"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W20",
+    "total_sales": "379.14999999999992"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W20",
+    "total_sales": "139.58"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W20",
+    "total_sales": "3364.9999999999959"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W21",
+    "total_sales": "1203.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W21",
+    "total_sales": "5462.1499999999869"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W21",
+    "total_sales": "1454.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W21",
+    "total_sales": "3924.4499999999912"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W22",
+    "total_sales": "1385.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W22",
+    "total_sales": "78.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W22",
+    "total_sales": "5151.3499999999894"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W22",
+    "total_sales": "134.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W22",
+    "total_sales": "1597.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W22",
+    "total_sales": "27.20000000000001"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W22",
+    "total_sales": "29.4"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W22",
+    "total_sales": "34.26"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W22",
+    "total_sales": "3966.3999999999969"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W23",
+    "total_sales": "1506.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W23",
+    "total_sales": "226.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W23",
+    "total_sales": "4497.1999999999916"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W23",
+    "total_sales": "615.95"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W23",
+    "total_sales": "1254.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W23",
+    "total_sales": "90.39999999999992"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W23",
+    "total_sales": "245.49999999999994"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W23",
+    "total_sales": "54.66"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W23",
+    "total_sales": "3444.8999999999937"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W24",
+    "total_sales": "1386.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W24",
+    "total_sales": "730.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W24",
+    "total_sales": "4568.9499999999916"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W24",
+    "total_sales": "910.84999999999991"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W24",
+    "total_sales": "1364.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W24",
+    "total_sales": "207.19999999999993"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W24",
+    "total_sales": "292.2999999999999"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W24",
+    "total_sales": "70.39"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W24",
+    "total_sales": "3462.6999999999966"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W25",
+    "total_sales": "1415.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W25",
+    "total_sales": "387.0"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W25",
+    "total_sales": "4391.2999999999947"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W25",
+    "total_sales": "817.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W25",
+    "total_sales": "1306.25"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W25",
+    "total_sales": "88.7999999999999"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W25",
+    "total_sales": "155.85000000000002"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W25",
+    "total_sales": "55.86"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W25",
+    "total_sales": "3452.699999999993"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Bakery",
+    "year_week": "2023 W26",
+    "total_sales": "907.75"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Branded",
+    "year_week": "2023 W26",
     "total_sales": "28.0"
   },
   {
+    "store_location": "Astoria",
+    "product_category": "Coffee",
+    "year_week": "2023 W26",
+    "total_sales": "4009.1999999999953"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W26",
+    "total_sales": "34.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W26",
+    "total_sales": "1072.5"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "year_week": "2023 W26",
+    "total_sales": "22.400000000000009"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W26",
+    "total_sales": "38.099999999999994"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "year_week": "2023 W26",
+    "total_sales": "2913.9999999999932"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W01",
+    "total_sales": "600.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Coffee",
     "year_week": "2023 W01",
-    "total_sales": "7310.3999999999733"
+    "total_sales": "2658.8000000000025"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Coffee beans",
     "year_week": "2023 W01",
-    "total_sales": "450.09999999999997"
+    "total_sales": "94.350000000000009"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W01",
-    "total_sales": "1891.0"
+    "total_sales": "657.25"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Flavours",
     "year_week": "2023 W01",
-    "total_sales": "75.999999999999972"
+    "total_sales": "30.400000000000013"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Loose Tea",
     "year_week": "2023 W01",
-    "total_sales": "102.15"
+    "total_sales": "36.9"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W01",
-    "total_sales": "33.73"
+    "total_sales": "27.33"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Tea",
     "year_week": "2023 W01",
-    "total_sales": "5247.9500000000062"
+    "total_sales": "1789.9499999999969"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Bakery",
     "year_week": "2023 W02",
-    "total_sales": "2374.0400000000009"
+    "total_sales": "818.0"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Branded",
     "year_week": "2023 W02",
-    "total_sales": "645.0"
+    "total_sales": "104.0"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Coffee",
     "year_week": "2023 W02",
-    "total_sales": "6762.9499999999753"
+    "total_sales": "2423.2500000000009"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Coffee beans",
     "year_week": "2023 W02",
-    "total_sales": "1330.7500000000002"
+    "total_sales": "499.34999999999997"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W02",
-    "total_sales": "1845.75"
+    "total_sales": "683.75"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Flavours",
     "year_week": "2023 W02",
-    "total_sales": "367.20000000000147"
+    "total_sales": "129.59999999999977"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Loose Tea",
     "year_week": "2023 W02",
-    "total_sales": "462.84999999999968"
+    "total_sales": "174.25"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W02",
-    "total_sales": "260.24"
+    "total_sales": "125.18999999999998"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Tea",
     "year_week": "2023 W02",
-    "total_sales": "5080.7500000000036"
+    "total_sales": "1940.3999999999974"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Bakery",
     "year_week": "2023 W03",
-    "total_sales": "2256.3500000000004"
+    "total_sales": "766.25"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Branded",
     "year_week": "2023 W03",
-    "total_sales": "765.0"
+    "total_sales": "82.0"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Coffee",
     "year_week": "2023 W03",
-    "total_sales": "6779.29999999999"
+    "total_sales": "2185.3499999999981"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Coffee beans",
     "year_week": "2023 W03",
-    "total_sales": "2334.7"
+    "total_sales": "1412.9"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W03",
-    "total_sales": "1878.5"
+    "total_sales": "553.0"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Flavours",
     "year_week": "2023 W03",
-    "total_sales": "358.40000000000134"
+    "total_sales": "87.9999999999999"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Loose Tea",
     "year_week": "2023 W03",
-    "total_sales": "392.8499999999998"
+    "total_sales": "154.75"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W03",
-    "total_sales": "159.30999999999997"
+    "total_sales": "21.6"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Tea",
     "year_week": "2023 W03",
-    "total_sales": "4894.100000000004"
+    "total_sales": "1638.8499999999981"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
     "product_category": "Bakery",
     "year_week": "2023 W04",
-    "total_sales": "2071.2999999999997"
+    "total_sales": "672.55"
   },
   {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W04",
+    "total_sales": "2281.7499999999968"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W04",
+    "total_sales": "350.4"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W04",
+    "total_sales": "598.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W04",
+    "total_sales": "40.000000000000007"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W04",
+    "total_sales": "100.75000000000001"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W04",
+    "total_sales": "26.130000000000003"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W04",
+    "total_sales": "1566.5999999999979"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W05",
+    "total_sales": "580.15"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W05",
+    "total_sales": "2287.4500000000007"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W05",
+    "total_sales": "259.15"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W05",
+    "total_sales": "715.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W05",
+    "total_sales": "14.4"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W05",
+    "total_sales": "54.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W05",
+    "total_sales": "1909.2499999999977"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W06",
+    "total_sales": "819.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W06",
+    "total_sales": "68.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W06",
+    "total_sales": "2659.8000000000011"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W06",
+    "total_sales": "461.79999999999995"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W06",
+    "total_sales": "598.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W06",
+    "total_sales": "119.19999999999982"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W06",
+    "total_sales": "64.65"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W06",
+    "total_sales": "88.39"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W06",
+    "total_sales": "1848.299999999997"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W07",
+    "total_sales": "901.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W07",
+    "total_sales": "66.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W07",
+    "total_sales": "2450.9499999999989"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W07",
+    "total_sales": "733.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W07",
+    "total_sales": "740.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W07",
+    "total_sales": "111.19999999999982"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W07",
+    "total_sales": "235.44999999999993"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W07",
+    "total_sales": "27.33"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W07",
+    "total_sales": "1692.1499999999976"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W08",
+    "total_sales": "763.34999999999991"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W08",
+    "total_sales": "98.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W08",
+    "total_sales": "2413.5999999999972"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W08",
+    "total_sales": "513.45"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W08",
+    "total_sales": "594.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W08",
+    "total_sales": "70.399999999999977"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W08",
+    "total_sales": "166.54999999999998"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W08",
+    "total_sales": "27.33"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W08",
+    "total_sales": "1694.6999999999978"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W09",
+    "total_sales": "539.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W09",
+    "total_sales": "2838.0000000000014"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W09",
+    "total_sales": "785.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W09",
+    "total_sales": "19.200000000000003"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W09",
+    "total_sales": "2197.5499999999929"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W10",
+    "total_sales": "970.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W10",
+    "total_sales": "94.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W10",
+    "total_sales": "3257.1500000000033"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W10",
+    "total_sales": "547.55"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W10",
+    "total_sales": "734.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W10",
+    "total_sales": "142.39999999999978"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W10",
+    "total_sales": "138.45000000000002"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W10",
+    "total_sales": "81.460000000000008"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W10",
+    "total_sales": "2229.0499999999925"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W11",
+    "total_sales": "1042.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W11",
+    "total_sales": "40.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W11",
+    "total_sales": "2939.3999999999996"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W11",
+    "total_sales": "799.34999999999991"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "689.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W11",
+    "total_sales": "136.79999999999981"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W11",
+    "total_sales": "253.09999999999994"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "102.92"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W11",
+    "total_sales": "2001.4999999999977"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W12",
+    "total_sales": "970.05"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W12",
+    "total_sales": "84.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W12",
+    "total_sales": "2762.4999999999986"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W12",
+    "total_sales": "620.3"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "782.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W12",
+    "total_sales": "85.599999999999923"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W12",
+    "total_sales": "192.85"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "54.66"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W12",
+    "total_sales": "1938.8999999999967"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W13",
+    "total_sales": "812.9"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W13",
+    "total_sales": "14.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W13",
+    "total_sales": "3169.7000000000012"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W13",
+    "total_sales": "125.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W13",
+    "total_sales": "716.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W13",
+    "total_sales": "52.000000000000007"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W13",
+    "total_sales": "45.3"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W13",
+    "total_sales": "20.93"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W13",
+    "total_sales": "2029.4999999999968"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W14",
+    "total_sales": "971.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W14",
+    "total_sales": "3745.5999999999967"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W14",
+    "total_sales": "237.4"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W14",
+    "total_sales": "1039.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W14",
+    "total_sales": "90.399999999999892"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W14",
+    "total_sales": "94.600000000000009"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W14",
+    "total_sales": "41.33"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W14",
+    "total_sales": "2672.8999999999969"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W15",
+    "total_sales": "1360.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W15",
+    "total_sales": "200.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W15",
+    "total_sales": "3826.099999999999"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W15",
+    "total_sales": "985.3"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W15",
+    "total_sales": "1034.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W15",
+    "total_sales": "195.99999999999986"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W15",
+    "total_sales": "339.84999999999991"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W15",
+    "total_sales": "151.85"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W15",
+    "total_sales": "2648.3499999999958"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W16",
+    "total_sales": "1081.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W16",
+    "total_sales": "154.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W16",
+    "total_sales": "3331.8499999999995"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W16",
+    "total_sales": "1587.85"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W16",
+    "total_sales": "871.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W16",
+    "total_sales": "122.39999999999979"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W16",
+    "total_sales": "155.3"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W16",
+    "total_sales": "92.66"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W16",
+    "total_sales": "2559.8499999999972"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W17",
+    "total_sales": "1038.1999999999998"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W17",
+    "total_sales": "3427.1999999999994"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W17",
+    "total_sales": "413.2"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W17",
+    "total_sales": "841.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W17",
+    "total_sales": "75.19999999999996"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W17",
+    "total_sales": "139.45"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W17",
+    "total_sales": "28.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W17",
+    "total_sales": "2311.3999999999955"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W18",
+    "total_sales": "1070.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W18",
+    "total_sales": "4834.2999999999938"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W18",
+    "total_sales": "76.9"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W18",
+    "total_sales": "1324.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W18",
+    "total_sales": "40.000000000000014"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W18",
+    "total_sales": "12.8"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W18",
+    "total_sales": "3667.5999999999972"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W19",
+    "total_sales": "1702.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W19",
+    "total_sales": "162.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W19",
+    "total_sales": "5075.4999999999945"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W19",
+    "total_sales": "1219.6"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W19",
+    "total_sales": "1124.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W19",
+    "total_sales": "264.00000000000023"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W19",
+    "total_sales": "423.49999999999983"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W19",
+    "total_sales": "187.98000000000002"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W19",
+    "total_sales": "3560.3999999999928"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W20",
+    "total_sales": "1489.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W20",
+    "total_sales": "290.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W20",
+    "total_sales": "4310.7000000000071"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W20",
+    "total_sales": "1710.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W20",
+    "total_sales": "1352.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W20",
+    "total_sales": "212.8"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W20",
+    "total_sales": "321.19999999999993"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W20",
+    "total_sales": "90.12"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W20",
+    "total_sales": "3249.3499999999963"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W21",
+    "total_sales": "1396.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W21",
+    "total_sales": "4292.6000000000058"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W21",
+    "total_sales": "856.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W21",
+    "total_sales": "1070.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W21",
+    "total_sales": "85.599999999999937"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W21",
+    "total_sales": "171.49999999999997"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W21",
+    "total_sales": "34.93"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W21",
+    "total_sales": "2996.6499999999965"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W22",
+    "total_sales": "1107.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W22",
+    "total_sales": "66.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W22",
+    "total_sales": "4691.2999999999975"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W22",
+    "total_sales": "220.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W22",
+    "total_sales": "1137.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W22",
+    "total_sales": "48.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W22",
+    "total_sales": "71.9"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W22",
+    "total_sales": "21.6"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W22",
+    "total_sales": "3329.8499999999954"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W23",
+    "total_sales": "1557.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W23",
+    "total_sales": "92.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W23",
+    "total_sales": "5478.0999999999913"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W23",
+    "total_sales": "570.34999999999991"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W23",
+    "total_sales": "1339.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W23",
+    "total_sales": "211.19999999999985"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W23",
+    "total_sales": "247.24999999999994"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W23",
+    "total_sales": "137.98999999999998"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W23",
+    "total_sales": "3765.6499999999969"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W24",
+    "total_sales": "1718.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W24",
+    "total_sales": "178.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W24",
+    "total_sales": "5204.1500000000078"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W24",
+    "total_sales": "2589.2"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W24",
+    "total_sales": "1330.25"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W24",
+    "total_sales": "253.59999999999997"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W24",
+    "total_sales": "454.94999999999976"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W24",
+    "total_sales": "152.51999999999998"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W24",
+    "total_sales": "3516.7499999999955"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W25",
+    "total_sales": "1462.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "year_week": "2023 W25",
+    "total_sales": "150.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W25",
+    "total_sales": "4535.10000000001"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W25",
+    "total_sales": "1105.8"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W25",
+    "total_sales": "1233.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W25",
+    "total_sales": "147.19999999999979"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W25",
+    "total_sales": "284.04999999999995"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W25",
+    "total_sales": "88.39"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W25",
+    "total_sales": "3154.5999999999981"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "year_week": "2023 W26",
+    "total_sales": "889.5"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "year_week": "2023 W26",
+    "total_sales": "3159.3499999999985"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W26",
+    "total_sales": "496.75"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W26",
+    "total_sales": "788.0"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "year_week": "2023 W26",
+    "total_sales": "88.799999999999926"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W26",
+    "total_sales": "84.55"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W26",
+    "total_sales": "48.93"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "year_week": "2023 W26",
+    "total_sales": "2113.2999999999947"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "year_week": "2023 W01",
+    "total_sales": "652.25"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "year_week": "2023 W01",
+    "total_sales": "14.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "year_week": "2023 W01",
+    "total_sales": "2264.7500000000014"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W01",
+    "total_sales": "313.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W01",
+    "total_sales": "468.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Flavours",
+    "year_week": "2023 W01",
+    "total_sales": "45.600000000000016"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W01",
+    "total_sales": "18.2"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W01",
+    "total_sales": "6.4"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Tea",
+    "year_week": "2023 W01",
+    "total_sales": "1605.3499999999979"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "year_week": "2023 W02",
+    "total_sales": "879.0400000000003"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "year_week": "2023 W02",
+    "total_sales": "272.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "year_week": "2023 W02",
+    "total_sales": "2271.2500000000009"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W02",
+    "total_sales": "377.65"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W02",
+    "total_sales": "604.25"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Flavours",
+    "year_week": "2023 W02",
+    "total_sales": "139.19999999999985"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W02",
+    "total_sales": "148.35"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W02",
+    "total_sales": "57.059999999999995"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Tea",
+    "year_week": "2023 W02",
+    "total_sales": "1542.649999999998"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "year_week": "2023 W03",
+    "total_sales": "718.59999999999991"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "year_week": "2023 W03",
+    "total_sales": "190.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "year_week": "2023 W03",
+    "total_sales": "2377.849999999999"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W03",
+    "total_sales": "320.7"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W03",
+    "total_sales": "604.75"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Flavours",
+    "year_week": "2023 W03",
+    "total_sales": "167.19999999999985"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W03",
+    "total_sales": "101.35000000000001"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W03",
+    "total_sales": "61.589999999999996"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Tea",
+    "year_week": "2023 W03",
+    "total_sales": "1521.0499999999988"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "year_week": "2023 W04",
+    "total_sales": "736.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W04",
     "total_sales": "246.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W04",
-    "total_sales": "7603.9499999999944"
+    "total_sales": "2604.4999999999986"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W04",
-    "total_sales": "587.34999999999991"
+    "total_sales": "236.95"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W04",
-    "total_sales": "2011.75"
+    "total_sales": "615.25"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W04",
-    "total_sales": "123.1999999999998"
+    "total_sales": "83.199999999999946"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W04",
-    "total_sales": "191.64999999999995"
+    "total_sales": "90.9"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W04",
-    "total_sales": "47.73"
+    "total_sales": "21.6"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W04",
-    "total_sales": "5388.7000000000071"
+    "total_sales": "1876.9499999999989"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W05",
-    "total_sales": "2066.5600000000004"
+    "total_sales": "768.91"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W05",
-    "total_sales": "206.0"
+    "total_sales": "124.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W05",
-    "total_sales": "6908.1499999999778"
+    "total_sales": "2135.8500000000022"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W05",
-    "total_sales": "542.34999999999991"
+    "total_sales": "119.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W05",
-    "total_sales": "1899.5"
+    "total_sales": "488.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W05",
-    "total_sales": "49.600000000000016"
+    "total_sales": "20.000000000000004"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W05",
-    "total_sales": "144.35000000000002"
+    "total_sales": "18.2"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W05",
     "total_sales": "20.93"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W05",
-    "total_sales": "5394.1500000000033"
+    "total_sales": "1627.5499999999977"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W06",
-    "total_sales": "2230.2200000000007"
+    "total_sales": "751.47"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W06",
-    "total_sales": "230.0"
+    "total_sales": "68.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W06",
-    "total_sales": "6920.8499999999722"
+    "total_sales": "2258.6000000000004"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W06",
-    "total_sales": "1116.4"
+    "total_sales": "397.65"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W06",
-    "total_sales": "1890.25"
+    "total_sales": "631.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W06",
-    "total_sales": "285.60000000000042"
+    "total_sales": "110.39999999999995"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W06",
-    "total_sales": "354.89999999999975"
+    "total_sales": "160.99999999999997"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W06",
-    "total_sales": "208.38000000000002"
+    "total_sales": "84.39"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W06",
-    "total_sales": "5096.7500000000055"
+    "total_sales": "1668.5499999999979"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W07",
-    "total_sales": "2373.0"
+    "total_sales": "695.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W07",
-    "total_sales": "599.0"
+    "total_sales": "208.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W07",
-    "total_sales": "7148.14999999999"
+    "total_sales": "2199.2000000000012"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W07",
-    "total_sales": "1572.3500000000001"
+    "total_sales": "283.25"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W07",
-    "total_sales": "2127.25"
+    "total_sales": "588.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W07",
-    "total_sales": "376.80000000000183"
+    "total_sales": "146.39999999999984"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W07",
-    "total_sales": "534.14999999999975"
+    "total_sales": "159.6"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W07",
-    "total_sales": "124.52"
+    "total_sales": "68.660000000000011"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W07",
-    "total_sales": "5001.400000000006"
+    "total_sales": "1512.4499999999978"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W08",
-    "total_sales": "2380.2500000000009"
+    "total_sales": "844.89999999999986"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W08",
-    "total_sales": "342.0"
+    "total_sales": "188.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W08",
-    "total_sales": "7680.9999999999973"
+    "total_sales": "2653.7499999999991"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W08",
-    "total_sales": "1225.25"
+    "total_sales": "489.9"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W08",
-    "total_sales": "2028.0"
+    "total_sales": "678.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W08",
-    "total_sales": "225.59999999999985"
+    "total_sales": "125.5999999999998"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W08",
-    "total_sales": "370.59999999999985"
+    "total_sales": "129.6"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W08",
-    "total_sales": "105.32"
+    "total_sales": "43.73"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W08",
-    "total_sales": "5705.0500000000075"
+    "total_sales": "2163.1499999999992"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W09",
-    "total_sales": "2256.1000000000004"
+    "total_sales": "937.84999999999991"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W09",
     "total_sales": "64.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W09",
-    "total_sales": "8656.0499999999756"
+    "total_sales": "2844.3500000000017"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W09",
     "total_sales": "163.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W09",
-    "total_sales": "2435.25"
+    "total_sales": "778.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W09",
-    "total_sales": "42.400000000000006"
+    "total_sales": "23.200000000000003"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W09",
     "total_sales": "18.2"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W09",
     "total_sales": "12.8"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W09",
-    "total_sales": "6741.4500000000244"
+    "total_sales": "2017.3499999999972"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W10",
-    "total_sales": "2703.6600000000008"
+    "total_sales": "821.6600000000002"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W10",
-    "total_sales": "432.0"
+    "total_sales": "206.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W10",
-    "total_sales": "8331.3999999999687"
+    "total_sales": "2696.0000000000014"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W10",
-    "total_sales": "1533.2500000000002"
+    "total_sales": "553.7"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W10",
-    "total_sales": "2155.5"
+    "total_sales": "768.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W10",
-    "total_sales": "360.00000000000153"
+    "total_sales": "160.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W10",
-    "total_sales": "446.89999999999975"
+    "total_sales": "185.54999999999998"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W10",
-    "total_sales": "194.38000000000002"
-  },
-  {
-    "product_category": "Tea",
-    "year_week": "2023 W10",
-    "total_sales": "5989.2500000000045"
-  },
-  {
-    "product_category": "Bakery",
-    "year_week": "2023 W11",
-    "total_sales": "2799.0"
-  },
-  {
-    "product_category": "Branded",
-    "year_week": "2023 W11",
-    "total_sales": "893.0"
-  },
-  {
-    "product_category": "Coffee",
-    "year_week": "2023 W11",
-    "total_sales": "8369.9499999999844"
-  },
-  {
-    "product_category": "Coffee beans",
-    "year_week": "2023 W11",
-    "total_sales": "1988.8000000000002"
-  },
-  {
-    "product_category": "Drinking Chocolate",
-    "year_week": "2023 W11",
-    "total_sales": "2178.5"
-  },
-  {
-    "product_category": "Flavours",
-    "year_week": "2023 W11",
-    "total_sales": "424.80000000000251"
-  },
-  {
-    "product_category": "Loose Tea",
-    "year_week": "2023 W11",
-    "total_sales": "599.34999999999991"
-  },
-  {
-    "product_category": "Packaged Chocolate",
-    "year_week": "2023 W11",
-    "total_sales": "228.64000000000001"
-  },
-  {
-    "product_category": "Tea",
-    "year_week": "2023 W11",
-    "total_sales": "6112.5500000000056"
-  },
-  {
-    "product_category": "Bakery",
-    "year_week": "2023 W12",
-    "total_sales": "2825.4500000000012"
-  },
-  {
-    "product_category": "Branded",
-    "year_week": "2023 W12",
-    "total_sales": "396.0"
-  },
-  {
-    "product_category": "Coffee",
-    "year_week": "2023 W12",
-    "total_sales": "8978.35"
-  },
-  {
-    "product_category": "Coffee beans",
-    "year_week": "2023 W12",
-    "total_sales": "1271.9500000000003"
-  },
-  {
-    "product_category": "Drinking Chocolate",
-    "year_week": "2023 W12",
-    "total_sales": "2497.5"
-  },
-  {
-    "product_category": "Flavours",
-    "year_week": "2023 W12",
-    "total_sales": "272.00000000000017"
-  },
-  {
-    "product_category": "Loose Tea",
-    "year_week": "2023 W12",
-    "total_sales": "446.24999999999972"
-  },
-  {
-    "product_category": "Packaged Chocolate",
-    "year_week": "2023 W12",
-    "total_sales": "122.64999999999999"
-  },
-  {
-    "product_category": "Tea",
-    "year_week": "2023 W12",
-    "total_sales": "6585.1500000000115"
-  },
-  {
-    "product_category": "Bakery",
-    "year_week": "2023 W13",
-    "total_sales": "2726.4700000000007"
-  },
-  {
-    "product_category": "Branded",
-    "year_week": "2023 W13",
-    "total_sales": "80.0"
-  },
-  {
-    "product_category": "Coffee",
-    "year_week": "2023 W13",
-    "total_sales": "9521.1999999999862"
-  },
-  {
-    "product_category": "Coffee beans",
-    "year_week": "2023 W13",
-    "total_sales": "462.2"
-  },
-  {
-    "product_category": "Drinking Chocolate",
-    "year_week": "2023 W13",
-    "total_sales": "2393.75"
-  },
-  {
-    "product_category": "Flavours",
-    "year_week": "2023 W13",
-    "total_sales": "115.19999999999982"
-  },
-  {
-    "product_category": "Loose Tea",
-    "year_week": "2023 W13",
-    "total_sales": "154.45"
-  },
-  {
-    "product_category": "Packaged Chocolate",
-    "year_week": "2023 W13",
     "total_sales": "42.53"
   },
   {
+    "store_location": "Lower Manhattan",
+    "product_category": "Tea",
+    "year_week": "2023 W10",
+    "total_sales": "2004.7999999999984"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "year_week": "2023 W11",
+    "total_sales": "907.5"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "year_week": "2023 W11",
+    "total_sales": "278.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "year_week": "2023 W11",
+    "total_sales": "2548.2000000000016"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W11",
+    "total_sales": "372.95"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "719.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Flavours",
+    "year_week": "2023 W11",
+    "total_sales": "155.19999999999979"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W11",
+    "total_sales": "160.45"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W11",
+    "total_sales": "91.460000000000008"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Tea",
+    "year_week": "2023 W11",
+    "total_sales": "1840.7499999999973"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "year_week": "2023 W12",
+    "total_sales": "921.64999999999975"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "year_week": "2023 W12",
+    "total_sales": "272.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "year_week": "2023 W12",
+    "total_sales": "3169.099999999999"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W12",
+    "total_sales": "364.75"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "866.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Flavours",
+    "year_week": "2023 W12",
+    "total_sales": "156.79999999999984"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W12",
+    "total_sales": "142.54999999999998"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W12",
+    "total_sales": "40.66"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Tea",
+    "year_week": "2023 W12",
+    "total_sales": "2479.3000000000011"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "year_week": "2023 W13",
+    "total_sales": "1032.82"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "year_week": "2023 W13",
+    "total_sales": "54.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "year_week": "2023 W13",
+    "total_sales": "3085.9500000000003"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "year_week": "2023 W13",
+    "total_sales": "300.45"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Drinking Chocolate",
+    "year_week": "2023 W13",
+    "total_sales": "788.0"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Flavours",
+    "year_week": "2023 W13",
+    "total_sales": "40.800000000000004"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Loose Tea",
+    "year_week": "2023 W13",
+    "total_sales": "54.3"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Packaged Chocolate",
+    "year_week": "2023 W13",
+    "total_sales": "21.6"
+  },
+  {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W13",
-    "total_sales": "6559.7500000000218"
+    "total_sales": "2083.9499999999957"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W14",
-    "total_sales": "3077.670000000001"
+    "total_sales": "982.17000000000019"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W14",
-    "total_sales": "260.0"
+    "total_sales": "206.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W14",
-    "total_sales": "10344.94999999999"
+    "total_sales": "3249.3000000000043"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W14",
-    "total_sales": "1036.5500000000002"
+    "total_sales": "513.45"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W14",
-    "total_sales": "2905.5"
+    "total_sales": "793.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W14",
-    "total_sales": "153.59999999999991"
+    "total_sales": "60.000000000000014"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W14",
-    "total_sales": "332.94999999999982"
+    "total_sales": "126.40000000000002"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W14",
-    "total_sales": "102.91999999999999"
+    "total_sales": "20.93"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W14",
-    "total_sales": "7865.7500000000282"
+    "total_sales": "2543.4499999999953"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W15",
-    "total_sales": "3550.0"
+    "total_sales": "1245.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W15",
-    "total_sales": "992.0"
+    "total_sales": "390.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W15",
-    "total_sales": "10361.099999999982"
+    "total_sales": "3243.0500000000047"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W15",
-    "total_sales": "2053.9"
+    "total_sales": "541.45"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W15",
-    "total_sales": "2874.0"
+    "total_sales": "872.25"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W15",
-    "total_sales": "583.20000000000255"
+    "total_sales": "223.99999999999994"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W15",
-    "total_sales": "687.50000000000011"
+    "total_sales": "139.4"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W15",
-    "total_sales": "386.75000000000011"
+    "total_sales": "131.45000000000002"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W15",
-    "total_sales": "7492.85000000002"
+    "total_sales": "2472.1499999999969"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W16",
-    "total_sales": "3345.0000000000009"
+    "total_sales": "1165.9999999999998"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W16",
-    "total_sales": "839.0"
+    "total_sales": "198.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W16",
-    "total_sales": "10578.95000000003"
+    "total_sales": "3739.2999999999997"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W16",
-    "total_sales": "2917.7"
+    "total_sales": "547.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W16",
-    "total_sales": "2649.5"
+    "total_sales": "812.25"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W16",
-    "total_sales": "440.00000000000261"
+    "total_sales": "208.79999999999995"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W16",
-    "total_sales": "539.64999999999975"
+    "total_sales": "172.49999999999994"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W16",
-    "total_sales": "313.56000000000012"
+    "total_sales": "117.45"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W16",
-    "total_sales": "7594.1500000000169"
+    "total_sales": "2465.1499999999978"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W17",
-    "total_sales": "3222.2800000000011"
+    "total_sales": "1192.58"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W17",
-    "total_sales": "288.0"
+    "total_sales": "274.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W17",
-    "total_sales": "11383.800000000014"
+    "total_sales": "3980.7499999999941"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W17",
-    "total_sales": "816.55"
+    "total_sales": "304.9"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W17",
-    "total_sales": "3033.25"
+    "total_sales": "928.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W17",
-    "total_sales": "241.6"
+    "total_sales": "153.59999999999982"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W17",
-    "total_sales": "269.0499999999999"
+    "total_sales": "102.45"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W17",
-    "total_sales": "70.0"
+    "total_sales": "42.000000000000007"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W17",
-    "total_sales": "8062.100000000014"
+    "total_sales": "2828.1499999999983"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W18",
-    "total_sales": "3815.25"
+    "total_sales": "1324.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W18",
-    "total_sales": "13596.100000000009"
+    "total_sales": "4035.2999999999975"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W18",
-    "total_sales": "221.89999999999998"
+    "total_sales": "145.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W18",
-    "total_sales": "3880.25"
+    "total_sales": "1093.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W18",
-    "total_sales": "65.6"
+    "total_sales": "25.600000000000009"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W18",
     "total_sales": "17.9"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W18",
-    "total_sales": "34.4"
+    "total_sales": "21.6"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W18",
-    "total_sales": "10478.700000000024"
+    "total_sales": "3097.8999999999951"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W19",
-    "total_sales": "4601.420000000001"
+    "total_sales": "1601.4200000000005"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W19",
-    "total_sales": "905.0"
+    "total_sales": "454.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W19",
-    "total_sales": "13072.750000000009"
+    "total_sales": "4377.649999999996"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W19",
-    "total_sales": "2523.1500000000005"
+    "total_sales": "666.34999999999991"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W19",
-    "total_sales": "3335.0"
+    "total_sales": "1118.25"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W19",
-    "total_sales": "706.4000000000002"
+    "total_sales": "282.40000000000043"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W19",
-    "total_sales": "955.65000000000146"
+    "total_sales": "250.79999999999993"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W19",
-    "total_sales": "435.01000000000016"
+    "total_sales": "144.11"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W19",
-    "total_sales": "9522.5000000000382"
+    "total_sales": "3043.0499999999947"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W20",
-    "total_sales": "4496.5"
+    "total_sales": "1434.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W20",
-    "total_sales": "1404.0"
+    "total_sales": "444.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W20",
-    "total_sales": "13325.600000000026"
+    "total_sales": "4519.6499999999987"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W20",
-    "total_sales": "3845.9999999999991"
+    "total_sales": "627.59999999999991"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W20",
-    "total_sales": "3804.25"
+    "total_sales": "1114.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W20",
-    "total_sales": "694.40000000000214"
+    "total_sales": "264.80000000000007"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W20",
-    "total_sales": "898.55000000000109"
+    "total_sales": "198.2"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W20",
-    "total_sales": "310.89999999999992"
+    "total_sales": "81.199999999999989"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W20",
-    "total_sales": "9696.3500000000258"
+    "total_sales": "3081.9999999999977"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W21",
-    "total_sales": "3942.9000000000019"
+    "total_sales": "1342.8999999999996"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W21",
     "total_sales": "334.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W21",
-    "total_sales": "15073.80000000007"
+    "total_sales": "5319.0500000000029"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W21",
-    "total_sales": "1543.7000000000003"
+    "total_sales": "687.2"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W21",
-    "total_sales": "3944.75"
+    "total_sales": "1419.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W21",
-    "total_sales": "308.0000000000008"
+    "total_sales": "222.39999999999995"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W21",
-    "total_sales": "339.49999999999983"
+    "total_sales": "168.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W21",
-    "total_sales": "116.92"
+    "total_sales": "81.990000000000009"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W21",
-    "total_sales": "11001.550000000016"
+    "total_sales": "4080.4500000000007"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W22",
-    "total_sales": "3947.7"
+    "total_sales": "1454.9499999999998"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W22",
-    "total_sales": "246.0"
+    "total_sales": "102.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W22",
-    "total_sales": "14218.300000000007"
+    "total_sales": "4375.6499999999969"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W22",
-    "total_sales": "634.2"
+    "total_sales": "279.2"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W22",
-    "total_sales": "3884.25"
+    "total_sales": "1149.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W22",
-    "total_sales": "131.19999999999979"
+    "total_sales": "56.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W22",
-    "total_sales": "183.54999999999995"
+    "total_sales": "82.25"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W22",
-    "total_sales": "83.859999999999985"
+    "total_sales": "28.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W22",
-    "total_sales": "10585.350000000029"
+    "total_sales": "3289.0999999999935"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W23",
-    "total_sales": "4467.9400000000014"
+    "total_sales": "1403.6900000000005"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W23",
-    "total_sales": "714.0"
+    "total_sales": "396.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W23",
-    "total_sales": "14496.800000000005"
+    "total_sales": "4521.4999999999945"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W23",
-    "total_sales": "1979.9000000000003"
+    "total_sales": "793.59999999999991"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W23",
-    "total_sales": "3695.5"
+    "total_sales": "1102.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W23",
-    "total_sales": "455.20000000000277"
+    "total_sales": "153.59999999999997"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W23",
-    "total_sales": "744.35000000000059"
+    "total_sales": "251.59999999999994"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W23",
-    "total_sales": "290.36999999999995"
+    "total_sales": "97.72"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W23",
-    "total_sales": "10613.200000000021"
+    "total_sales": "3402.6499999999951"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W24",
-    "total_sales": "4817.5"
+    "total_sales": "1712.5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W24",
-    "total_sales": "1438.0"
+    "total_sales": "530.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W24",
-    "total_sales": "14593.95"
+    "total_sales": "4820.8499999999949"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W24",
-    "total_sales": "4263.6499999999987"
+    "total_sales": "763.59999999999991"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W24",
-    "total_sales": "3906.5"
+    "total_sales": "1211.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W24",
-    "total_sales": "794.40000000000123"
+    "total_sales": "333.6000000000011"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W24",
-    "total_sales": "1048.8000000000018"
+    "total_sales": "301.54999999999995"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W24",
-    "total_sales": "375.29000000000019"
+    "total_sales": "152.38000000000002"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W24",
-    "total_sales": "10077.850000000035"
+    "total_sales": "3098.3999999999965"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W25",
-    "total_sales": "4293.5500000000011"
+    "total_sales": "1415.2999999999993"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W25",
-    "total_sales": "957.0"
+    "total_sales": "420.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W25",
-    "total_sales": "14096.250000000073"
+    "total_sales": "5169.85"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W25",
-    "total_sales": "2493.5"
+    "total_sales": "569.95"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W25",
-    "total_sales": "3742.75"
+    "total_sales": "1202.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W25",
-    "total_sales": "505.60000000000343"
+    "total_sales": "269.60000000000008"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W25",
-    "total_sales": "723.00000000000045"
+    "total_sales": "283.09999999999991"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W25",
-    "total_sales": "208.91000000000003"
+    "total_sales": "64.66"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W25",
-    "total_sales": "9961.7000000000135"
+    "total_sales": "3354.3999999999992"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Bakery",
     "year_week": "2023 W26",
-    "total_sales": "2881.0300000000007"
+    "total_sales": "1083.7799999999997"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Branded",
     "year_week": "2023 W26",
-    "total_sales": "262.0"
+    "total_sales": "234.0"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee",
     "year_week": "2023 W26",
-    "total_sales": "10591.300000000007"
+    "total_sales": "3422.7499999999977"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "year_week": "2023 W26",
-    "total_sales": "939.5"
+    "total_sales": "408.25"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "year_week": "2023 W26",
-    "total_sales": "2649.25"
+    "total_sales": "788.75"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "year_week": "2023 W26",
-    "total_sales": "217.6"
+    "total_sales": "106.39999999999986"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "year_week": "2023 W26",
-    "total_sales": "180.05"
+    "total_sales": "57.400000000000006"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "year_week": "2023 W26",
-    "total_sales": "95.989999999999981"
+    "total_sales": "47.059999999999995"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "year_week": "2023 W26",
-    "total_sales": "7411.7500000000191"
-  },
-  {
-    "product_category": "Bakery",
-    "year_week": "2023 W52",
-    "total_sales": "241.5"
-  },
-  {
-    "product_category": "Coffee",
-    "year_week": "2023 W52",
-    "total_sales": "1160.1000000000001"
-  },
-  {
-    "product_category": "Drinking Chocolate",
-    "year_week": "2023 W52",
-    "total_sales": "295.5"
-  },
-  {
-    "product_category": "Tea",
-    "year_week": "2023 W52",
-    "total_sales": "811.10000000000036"
+    "total_sales": "2384.4499999999994"
   }
 ]
