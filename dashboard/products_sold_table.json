@@ -1,590 +1,1815 @@
 [
   {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Almond Croissant",
     "price": "3.75",
-    "product_sold": "1898"
+    "product_sold": "620"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Almond Croissant",
-    "price": "4.69",
-    "product_sold": "2"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Chocolate Chip Biscotti",
     "price": "3.5",
-    "product_sold": "1894"
+    "product_sold": "649"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Chocolate Chip Biscotti",
-    "price": "4.38",
-    "product_sold": "17"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Chocolate Croissant",
     "price": "3.75",
-    "product_sold": "3061"
+    "product_sold": "1020"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Chocolate Croissant",
-    "price": "4.69",
-    "product_sold": "17"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Cranberry Scone",
     "price": "3.25",
-    "product_sold": "2053"
+    "product_sold": "680"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Cranberry Scone",
-    "price": "4.06",
-    "product_sold": "24"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Croissant",
     "price": "3.5",
-    "product_sold": "1913"
+    "product_sold": "597"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Croissant",
-    "price": "4.38",
-    "product_sold": "26"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Ginger Biscotti",
     "price": "3.5",
-    "product_sold": "1818"
+    "product_sold": "636"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Ginger Biscotti",
-    "price": "4.38",
-    "product_sold": "12"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Ginger Scone",
     "price": "3.25",
-    "product_sold": "2067"
+    "product_sold": "645"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Ginger Scone",
-    "price": "4.06",
-    "product_sold": "21"
-  },
-  {
-    "product_category": "Bakery",
-    "product_detail": "Ginger Scone",
-    "price": "2.65",
-    "product_sold": "424"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Hazelnut Biscotti",
     "price": "3.25",
-    "product_sold": "1994"
+    "product_sold": "660"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Hazelnut Biscotti",
-    "price": "4.06",
-    "product_sold": "21"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Jumbo Savory Scone",
     "price": "3.75",
-    "product_sold": "1992"
+    "product_sold": "696"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Jumbo Savory Scone",
-    "price": "4.69",
-    "product_sold": "23"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Oatmeal Scone",
     "price": "3.0",
-    "product_sold": "1809"
+    "product_sold": "649"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Bakery",
     "product_detail": "Scottish Cream Scone ",
     "price": "4.5",
-    "product_sold": "1955"
+    "product_sold": "601"
   },
   {
-    "product_category": "Bakery",
-    "product_detail": "Scottish Cream Scone ",
-    "price": "5.63",
-    "product_sold": "15"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Branded",
     "product_detail": "I Need My Bean! Diner mug",
     "price": "12.0",
-    "product_sold": "235"
+    "product_sold": "61"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Branded",
     "product_detail": "I Need My Bean! Diner mug",
     "price": "23.0",
     "product_sold": "5"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Branded",
     "product_detail": "I Need My Bean! Latte cup",
     "price": "14.0",
-    "product_sold": "301"
+    "product_sold": "91"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Branded",
     "product_detail": "I Need My Bean! Latte cup",
     "price": "23.0",
     "product_sold": "11"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Branded",
     "product_detail": "I Need My Bean! T-shirt",
     "price": "28.0",
-    "product_sold": "216"
+    "product_sold": "106"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Branded",
     "product_detail": "I Need My Bean! T-shirt",
     "price": "23.0",
     "product_sold": "5"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Brazilian Lg",
     "price": "3.5",
-    "product_sold": "4290"
+    "product_sold": "1402"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Brazilian Rg",
     "price": "3.0",
-    "product_sold": "4359"
+    "product_sold": "1526"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Brazilian Sm",
     "price": "2.2",
-    "product_sold": "4258"
+    "product_sold": "1384"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Cappuccino",
     "price": "3.75",
-    "product_sold": "4228"
+    "product_sold": "1395"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Cappuccino Lg",
     "price": "4.25",
-    "product_sold": "4128"
+    "product_sold": "1434"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Columbian Medium Roast Lg",
     "price": "3.0",
-    "product_sold": "4157"
+    "product_sold": "1413"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Columbian Medium Roast Rg",
     "price": "2.5",
-    "product_sold": "4517"
+    "product_sold": "1604"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Columbian Medium Roast Sm",
     "price": "2.0",
-    "product_sold": "4135"
+    "product_sold": "1529"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Espresso shot",
     "price": "3.0",
-    "product_sold": "4141"
+    "product_sold": "1426"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Ethiopia Lg",
     "price": "3.5",
-    "product_sold": "4200"
+    "product_sold": "1301"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Ethiopia Rg",
     "price": "3.0",
-    "product_sold": "4354"
+    "product_sold": "1406"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Ethiopia Sm",
     "price": "2.2",
-    "product_sold": "4385"
+    "product_sold": "1604"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Jamaican Coffee River Lg",
     "price": "3.75",
-    "product_sold": "4360"
+    "product_sold": "1534"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Jamaican Coffee River Rg",
     "price": "3.1",
-    "product_sold": "3993"
+    "product_sold": "1568"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Jamaican Coffee River Sm",
     "price": "2.45",
-    "product_sold": "3984"
+    "product_sold": "1306"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Latte",
     "price": "3.75",
-    "product_sold": "4558"
+    "product_sold": "1543"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Latte Rg",
     "price": "4.25",
-    "product_sold": "4473"
+    "product_sold": "1488"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Our Old Time Diner Blend Lg",
     "price": "3.0",
-    "product_sold": "3962"
+    "product_sold": "1503"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Our Old Time Diner Blend Rg",
     "price": "2.5",
-    "product_sold": "4368"
+    "product_sold": "1465"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
     "product_detail": "Our Old Time Diner Blend Sm",
     "price": "2.0",
-    "product_sold": "4461"
+    "product_sold": "1564"
   },
   {
-    "product_category": "Coffee",
-    "product_detail": "Ouro Brasileiro shot",
-    "price": "3.0",
-    "product_sold": "2265"
-  },
-  {
-    "product_category": "Coffee",
-    "product_detail": "Ouro Brasileiro shot",
-    "price": "2.1",
-    "product_sold": "965"
-  },
-  {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Brazilian - Organic",
     "price": "18.0",
-    "product_sold": "213"
+    "product_sold": "47"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Civet Cat",
     "price": "45.0",
-    "product_sold": "260"
+    "product_sold": "45"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Columbian Medium Roast",
     "price": "15.0",
-    "product_sold": "146"
+    "product_sold": "57"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Espresso Roast",
     "price": "14.75",
-    "product_sold": "168"
+    "product_sold": "51"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Ethiopia",
     "price": "21.0",
-    "product_sold": "217"
+    "product_sold": "75"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Guatemalan Sustainably Grown",
     "price": "10.0",
-    "product_sold": "133"
+    "product_sold": "40"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Jamacian Coffee River",
     "price": "19.75",
-    "product_sold": "146"
+    "product_sold": "51"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
     "product_detail": "Organic Decaf Blend",
     "price": "22.5",
-    "product_sold": "175"
+    "product_sold": "44"
   },
   {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "product_detail": "Our Old Time Diner Blend",
+    "price": "18.0",
+    "product_sold": "46"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Coffee beans",
+    "product_detail": "Primo Espresso Roast",
+    "price": "20.45",
+    "product_sold": "46"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Dark chocolate Lg",
+    "price": "4.5",
+    "product_sold": "1742"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Dark chocolate Rg",
+    "price": "3.5",
+    "product_sold": "1499"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Sustainably Grown Organic Lg",
+    "price": "4.75",
+    "product_sold": "1570"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Sustainably Grown Organic Rg",
+    "price": "3.75",
+    "product_sold": "1492"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "product_detail": "Carmel syrup",
+    "price": "0.8",
+    "product_sold": "535"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "product_detail": "Chocolate syrup",
+    "price": "0.8",
+    "product_sold": "670"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "product_detail": "Hazelnut syrup",
+    "price": "0.8",
+    "product_sold": "434"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Flavours",
+    "product_detail": "Sugar Free Vanilla syrup",
+    "price": "0.8",
+    "product_sold": "567"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "Earl Grey",
+    "price": "8.95",
+    "product_sold": "30"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "English Breakfast",
+    "price": "8.95",
+    "product_sold": "55"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "Lemon Grass",
+    "price": "8.95",
+    "product_sold": "42"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "Morning Sunrise Chai",
+    "price": "9.5",
+    "product_sold": "52"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "Peppermint",
+    "price": "8.95",
+    "product_sold": "55"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "Serenity Green Tea",
+    "price": "9.25",
+    "product_sold": "42"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "Spicy Eye Opener Chai",
+    "price": "10.95",
+    "product_sold": "37"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Loose Tea",
+    "product_detail": "Traditional Blend Chai",
+    "price": "8.95",
+    "product_sold": "31"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "product_detail": "Chili Mayan",
+    "price": "13.33",
+    "product_sold": "47"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "product_detail": "Dark chocolate",
+    "price": "6.4",
+    "product_sold": "13"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Packaged Chocolate",
+    "product_detail": "Sustainably Grown Organic",
+    "price": "7.6",
+    "product_sold": "50"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Earl Grey Lg",
+    "price": "3.0",
+    "product_sold": "1433"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Earl Grey Rg",
+    "price": "2.5",
+    "product_sold": "1721"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "English Breakfast Lg",
+    "price": "3.0",
+    "product_sold": "1384"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "English Breakfast Rg",
+    "price": "2.5",
+    "product_sold": "1330"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Lemon Grass Lg",
+    "price": "3.0",
+    "product_sold": "1363"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Lemon Grass Rg",
+    "price": "2.5",
+    "product_sold": "1470"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Morning Sunrise Chai Lg",
+    "price": "4.0",
+    "product_sold": "1563"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Morning Sunrise Chai Rg",
+    "price": "2.5",
+    "product_sold": "1532"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Peppermint Lg",
+    "price": "3.0",
+    "product_sold": "1401"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Peppermint Rg",
+    "price": "2.5",
+    "product_sold": "1657"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Serenity Green Tea Lg",
+    "price": "3.0",
+    "product_sold": "1479"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Serenity Green Tea Rg",
+    "price": "2.5",
+    "product_sold": "1402"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Spicy Eye Opener Chai Lg",
+    "price": "3.1",
+    "product_sold": "1611"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Spicy Eye Opener Chai Rg",
+    "price": "2.55",
+    "product_sold": "1516"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Traditional Blend Chai Lg",
+    "price": "3.0",
+    "product_sold": "1472"
+  },
+  {
+    "store_location": "Astoria",
+    "product_category": "Tea",
+    "product_detail": "Traditional Blend Chai Rg",
+    "price": "2.5",
+    "product_sold": "1539"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Almond Croissant",
+    "price": "3.75",
+    "product_sold": "643"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Chocolate Chip Biscotti",
+    "price": "3.5",
+    "product_sold": "540"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Chocolate Croissant",
+    "price": "3.75",
+    "product_sold": "1031"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Cranberry Scone",
+    "price": "3.25",
+    "product_sold": "715"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Croissant",
+    "price": "3.5",
+    "product_sold": "609"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Biscotti",
+    "price": "3.5",
+    "product_sold": "655"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Scone",
+    "price": "3.25",
+    "product_sold": "857"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Scone",
+    "price": "2.65",
+    "product_sold": "23"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Hazelnut Biscotti",
+    "price": "3.25",
+    "product_sold": "649"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Jumbo Savory Scone",
+    "price": "3.75",
+    "product_sold": "602"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Oatmeal Scone",
+    "price": "3.0",
+    "product_sold": "518"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "product_detail": "Scottish Cream Scone ",
+    "price": "4.5",
+    "product_sold": "775"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "product_detail": "I Need My Bean! Diner mug",
+    "price": "12.0",
+    "product_sold": "30"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "product_detail": "I Need My Bean! Latte cup",
+    "price": "14.0",
+    "product_sold": "65"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "product_detail": "I Need My Bean! T-shirt",
+    "price": "28.0",
+    "product_sold": "24"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Brazilian Lg",
+    "price": "3.5",
+    "product_sold": "1549"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Brazilian Rg",
+    "price": "3.0",
+    "product_sold": "1436"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Brazilian Sm",
+    "price": "2.2",
+    "product_sold": "1504"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Cappuccino",
+    "price": "3.75",
+    "product_sold": "1482"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Cappuccino Lg",
+    "price": "4.25",
+    "product_sold": "1291"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Columbian Medium Roast Lg",
+    "price": "3.0",
+    "product_sold": "1302"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Columbian Medium Roast Rg",
+    "price": "2.5",
+    "product_sold": "1406"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Columbian Medium Roast Sm",
+    "price": "2.0",
+    "product_sold": "1404"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Espresso shot",
+    "price": "3.0",
+    "product_sold": "1418"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Ethiopia Lg",
+    "price": "3.5",
+    "product_sold": "1544"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Ethiopia Rg",
+    "price": "3.0",
+    "product_sold": "1448"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Ethiopia Sm",
+    "price": "2.2",
+    "product_sold": "1307"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Jamaican Coffee River Lg",
+    "price": "3.75",
+    "product_sold": "1336"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Jamaican Coffee River Rg",
+    "price": "3.1",
+    "product_sold": "1233"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Jamaican Coffee River Sm",
+    "price": "2.45",
+    "product_sold": "1228"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Latte",
+    "price": "3.75",
+    "product_sold": "1496"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Latte Rg",
+    "price": "4.25",
+    "product_sold": "1489"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Our Old Time Diner Blend Lg",
+    "price": "3.0",
+    "product_sold": "1332"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Our Old Time Diner Blend Rg",
+    "price": "2.5",
+    "product_sold": "1438"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Our Old Time Diner Blend Sm",
+    "price": "2.0",
+    "product_sold": "1545"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Ouro Brasileiro shot",
+    "price": "3.0",
+    "product_sold": "1284"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "product_detail": "Ouro Brasileiro shot",
+    "price": "2.1",
+    "product_sold": "555"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Brazilian - Organic",
+    "price": "18.0",
+    "product_sold": "74"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Civet Cat",
+    "price": "45.0",
+    "product_sold": "164"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Columbian Medium Roast",
+    "price": "15.0",
+    "product_sold": "52"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Espresso Roast",
+    "price": "14.75",
+    "product_sold": "71"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Ethiopia",
+    "price": "21.0",
+    "product_sold": "63"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Guatemalan Sustainably Grown",
+    "price": "10.0",
+    "product_sold": "59"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Jamacian Coffee River",
+    "price": "19.75",
+    "product_sold": "53"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Organic Decaf Blend",
+    "price": "22.5",
+    "product_sold": "86"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Our Old Time Diner Blend",
+    "price": "18.0",
+    "product_sold": "89"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "product_detail": "Primo Espresso Roast",
+    "price": "20.45",
+    "product_sold": "71"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Dark chocolate Lg",
+    "price": "4.5",
+    "product_sold": "1441"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Dark chocolate Rg",
+    "price": "3.5",
+    "product_sold": "1254"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Sustainably Grown Organic Lg",
+    "price": "4.75",
+    "product_sold": "1530"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "product_detail": "Sustainably Grown Organic Rg",
+    "price": "3.75",
+    "product_sold": "1404"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "product_detail": "Carmel syrup",
+    "price": "0.8",
+    "product_sold": "943"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "product_detail": "Chocolate syrup",
+    "price": "0.8",
+    "product_sold": "889"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "product_detail": "Hazelnut syrup",
+    "price": "0.8",
+    "product_sold": "864"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "product_detail": "Sugar Free Vanilla syrup",
+    "price": "0.8",
+    "product_sold": "897"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "Earl Grey",
+    "price": "8.95",
+    "product_sold": "71"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "English Breakfast",
+    "price": "8.95",
+    "product_sold": "47"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "Lemon Grass",
+    "price": "8.95",
+    "product_sold": "78"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "Morning Sunrise Chai",
+    "price": "9.5",
+    "product_sold": "68"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "Peppermint",
+    "price": "8.95",
+    "product_sold": "61"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "Serenity Green Tea",
+    "price": "9.25",
+    "product_sold": "43"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "Spicy Eye Opener Chai",
+    "price": "10.95",
+    "product_sold": "34"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "product_detail": "Traditional Blend Chai",
+    "price": "8.95",
+    "product_sold": "77"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "product_detail": "Chili Mayan",
+    "price": "13.33",
+    "product_sold": "49"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "product_detail": "Dark chocolate",
+    "price": "6.4",
+    "product_sold": "65"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "product_detail": "Sustainably Grown Organic",
+    "price": "7.6",
+    "product_sold": "82"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Earl Grey Lg",
+    "price": "3.0",
+    "product_sold": "1300"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Earl Grey Rg",
+    "price": "2.5",
+    "product_sold": "1511"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "English Breakfast Lg",
+    "price": "3.0",
+    "product_sold": "1518"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "English Breakfast Rg",
+    "price": "2.5",
+    "product_sold": "1302"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Lemon Grass Lg",
+    "price": "3.0",
+    "product_sold": "1390"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Lemon Grass Rg",
+    "price": "2.5",
+    "product_sold": "1405"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Morning Sunrise Chai Lg",
+    "price": "4.0",
+    "product_sold": "1405"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Morning Sunrise Chai Rg",
+    "price": "2.5",
+    "product_sold": "1581"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Peppermint Lg",
+    "price": "3.0",
+    "product_sold": "1339"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Peppermint Rg",
+    "price": "2.5",
+    "product_sold": "1391"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Serenity Green Tea Lg",
+    "price": "3.0",
+    "product_sold": "1395"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Serenity Green Tea Rg",
+    "price": "2.5",
+    "product_sold": "1590"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Spicy Eye Opener Chai Lg",
+    "price": "3.1",
+    "product_sold": "1399"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Spicy Eye Opener Chai Rg",
+    "price": "2.55",
+    "product_sold": "1367"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Traditional Blend Chai Lg",
+    "price": "3.0",
+    "product_sold": "1444"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "product_detail": "Traditional Blend Chai Rg",
+    "price": "2.5",
+    "product_sold": "1504"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Almond Croissant",
+    "price": "3.75",
+    "product_sold": "635"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Almond Croissant",
+    "price": "4.69",
+    "product_sold": "2"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Chocolate Chip Biscotti",
+    "price": "3.5",
+    "product_sold": "705"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Chocolate Chip Biscotti",
+    "price": "4.38",
+    "product_sold": "17"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Chocolate Croissant",
+    "price": "3.75",
+    "product_sold": "1010"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Chocolate Croissant",
+    "price": "4.69",
+    "product_sold": "17"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Cranberry Scone",
+    "price": "3.25",
+    "product_sold": "658"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Cranberry Scone",
+    "price": "4.06",
+    "product_sold": "24"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Croissant",
+    "price": "3.5",
+    "product_sold": "707"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Croissant",
+    "price": "4.38",
+    "product_sold": "26"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Biscotti",
+    "price": "3.5",
+    "product_sold": "527"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Biscotti",
+    "price": "4.38",
+    "product_sold": "12"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Scone",
+    "price": "3.25",
+    "product_sold": "565"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Scone",
+    "price": "4.06",
+    "product_sold": "21"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Ginger Scone",
+    "price": "2.65",
+    "product_sold": "401"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Hazelnut Biscotti",
+    "price": "3.25",
+    "product_sold": "685"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Hazelnut Biscotti",
+    "price": "4.06",
+    "product_sold": "21"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Jumbo Savory Scone",
+    "price": "3.75",
+    "product_sold": "694"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Jumbo Savory Scone",
+    "price": "4.69",
+    "product_sold": "23"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Oatmeal Scone",
+    "price": "3.0",
+    "product_sold": "642"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Scottish Cream Scone ",
+    "price": "4.5",
+    "product_sold": "579"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "product_detail": "Scottish Cream Scone ",
+    "price": "5.63",
+    "product_sold": "15"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "product_detail": "I Need My Bean! Diner mug",
+    "price": "12.0",
+    "product_sold": "144"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "product_detail": "I Need My Bean! Latte cup",
+    "price": "14.0",
+    "product_sold": "145"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "product_detail": "I Need My Bean! T-shirt",
+    "price": "28.0",
+    "product_sold": "86"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Brazilian Lg",
+    "price": "3.5",
+    "product_sold": "1339"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Brazilian Rg",
+    "price": "3.0",
+    "product_sold": "1397"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Brazilian Sm",
+    "price": "2.2",
+    "product_sold": "1370"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Cappuccino",
+    "price": "3.75",
+    "product_sold": "1351"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Cappuccino Lg",
+    "price": "4.25",
+    "product_sold": "1403"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Columbian Medium Roast Lg",
+    "price": "3.0",
+    "product_sold": "1442"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Columbian Medium Roast Rg",
+    "price": "2.5",
+    "product_sold": "1507"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Columbian Medium Roast Sm",
+    "price": "2.0",
+    "product_sold": "1202"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Espresso shot",
+    "price": "3.0",
+    "product_sold": "1297"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Ethiopia Lg",
+    "price": "3.5",
+    "product_sold": "1355"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Ethiopia Rg",
+    "price": "3.0",
+    "product_sold": "1500"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Ethiopia Sm",
+    "price": "2.2",
+    "product_sold": "1474"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Jamaican Coffee River Lg",
+    "price": "3.75",
+    "product_sold": "1490"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Jamaican Coffee River Rg",
+    "price": "3.1",
+    "product_sold": "1192"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Jamaican Coffee River Sm",
+    "price": "2.45",
+    "product_sold": "1450"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Latte",
+    "price": "3.75",
+    "product_sold": "1519"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Latte Rg",
+    "price": "4.25",
+    "product_sold": "1496"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Our Old Time Diner Blend Lg",
+    "price": "3.0",
+    "product_sold": "1127"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Our Old Time Diner Blend Rg",
+    "price": "2.5",
+    "product_sold": "1465"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Our Old Time Diner Blend Sm",
+    "price": "2.0",
+    "product_sold": "1352"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Ouro Brasileiro shot",
+    "price": "3.0",
+    "product_sold": "981"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "product_detail": "Ouro Brasileiro shot",
+    "price": "2.1",
+    "product_sold": "410"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Brazilian - Organic",
+    "price": "18.0",
+    "product_sold": "92"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Civet Cat",
+    "price": "45.0",
+    "product_sold": "51"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Columbian Medium Roast",
+    "price": "15.0",
+    "product_sold": "37"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Espresso Roast",
+    "price": "14.75",
+    "product_sold": "46"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Ethiopia",
+    "price": "21.0",
+    "product_sold": "79"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Guatemalan Sustainably Grown",
+    "price": "10.0",
+    "product_sold": "34"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Jamacian Coffee River",
+    "price": "19.75",
+    "product_sold": "42"
+  },
+  {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "product_detail": "Organic Decaf Blend",
     "price": "28.0",
     "product_sold": "17"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "product_detail": "Organic Decaf Blend",
     "price": "12.0",
     "product_sold": "7"
   },
   {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "product_detail": "Organic Decaf Blend",
+    "price": "22.5",
+    "product_sold": "45"
+  },
+  {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "product_detail": "Organic Decaf Blend",
     "price": "23.0",
     "product_sold": "5"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "product_detail": "Our Old Time Diner Blend",
     "price": "18.0",
-    "product_sold": "181"
+    "product_sold": "46"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Coffee beans",
     "product_detail": "Primo Espresso Roast",
     "price": "20.45",
-    "product_sold": "147"
+    "product_sold": "30"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "product_detail": "Dark chocolate Lg",
     "price": "4.5",
-    "product_sold": "4630"
+    "product_sold": "1447"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "product_detail": "Dark chocolate Rg",
     "price": "3.5",
-    "product_sold": "3964"
+    "product_sold": "1211"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "product_detail": "Sustainably Grown Organic Lg",
     "price": "4.75",
-    "product_sold": "4420"
+    "product_sold": "1320"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Drinking Chocolate",
     "product_detail": "Sustainably Grown Organic Rg",
     "price": "3.75",
-    "product_sold": "4301"
+    "product_sold": "1405"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "product_detail": "Carmel syrup",
     "price": "0.8",
-    "product_sold": "2565"
+    "product_sold": "1087"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "product_detail": "Chocolate syrup",
     "price": "0.8",
-    "product_sold": "2652"
+    "product_sold": "1093"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "product_detail": "Hazelnut syrup",
     "price": "0.8",
-    "product_sold": "2358"
+    "product_sold": "1060"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Flavours",
     "product_detail": "Sugar Free Vanilla syrup",
     "price": "0.8",
-    "product_sold": "2892"
+    "product_sold": "1428"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "Earl Grey",
     "price": "8.95",
-    "product_sold": "142"
+    "product_sold": "41"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "English Breakfast",
     "price": "8.95",
-    "product_sold": "160"
+    "product_sold": "58"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "Lemon Grass",
     "price": "8.95",
-    "product_sold": "150"
+    "product_sold": "30"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "Morning Sunrise Chai",
     "price": "9.5",
-    "product_sold": "167"
+    "product_sold": "47"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "Peppermint",
     "price": "8.95",
-    "product_sold": "153"
+    "product_sold": "37"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "Serenity Green Tea",
     "price": "9.25",
-    "product_sold": "158"
+    "product_sold": "73"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "Spicy Eye Opener Chai",
     "price": "10.95",
-    "product_sold": "121"
+    "product_sold": "50"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Loose Tea",
     "product_detail": "Traditional Blend Chai",
     "price": "8.95",
-    "product_sold": "151"
+    "product_sold": "43"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "product_detail": "Chili Mayan",
     "price": "13.33",
-    "product_sold": "148"
+    "product_sold": "52"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "product_detail": "Dark chocolate",
     "price": "6.4",
-    "product_sold": "117"
+    "product_sold": "39"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Packaged Chocolate",
     "product_detail": "Sustainably Grown Organic",
     "price": "7.6",
-    "product_sold": "219"
+    "product_sold": "87"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Earl Grey Lg",
     "price": "3.0",
-    "product_sold": "4220"
+    "product_sold": "1487"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Earl Grey Rg",
     "price": "2.5",
-    "product_sold": "4680"
+    "product_sold": "1448"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "English Breakfast Lg",
     "price": "3.0",
-    "product_sold": "4283"
+    "product_sold": "1381"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "English Breakfast Rg",
     "price": "2.5",
-    "product_sold": "4180"
+    "product_sold": "1548"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Lemon Grass Lg",
     "price": "3.0",
-    "product_sold": "4047"
+    "product_sold": "1294"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Lemon Grass Rg",
     "price": "2.5",
-    "product_sold": "4302"
+    "product_sold": "1427"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Morning Sunrise Chai Lg",
     "price": "4.0",
-    "product_sold": "4314"
+    "product_sold": "1346"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Morning Sunrise Chai Rg",
     "price": "2.5",
-    "product_sold": "4616"
+    "product_sold": "1503"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Peppermint Lg",
     "price": "3.0",
-    "product_sold": "4294"
+    "product_sold": "1554"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Peppermint Rg",
     "price": "2.5",
-    "product_sold": "4516"
+    "product_sold": "1468"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Serenity Green Tea Lg",
     "price": "3.0",
-    "product_sold": "4195"
+    "product_sold": "1321"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Serenity Green Tea Rg",
     "price": "2.5",
-    "product_sold": "4444"
+    "product_sold": "1452"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Spicy Eye Opener Chai Lg",
     "price": "3.1",
-    "product_sold": "4367"
+    "product_sold": "1357"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Spicy Eye Opener Chai Rg",
     "price": "2.55",
-    "product_sold": "4144"
+    "product_sold": "1261"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Traditional Blend Chai Lg",
     "price": "3.0",
-    "product_sold": "4153"
+    "product_sold": "1237"
   },
   {
+    "store_location": "Lower Manhattan",
     "product_category": "Tea",
     "product_detail": "Traditional Blend Chai Rg",
     "price": "2.5",
-    "product_sold": "4476"
+    "product_sold": "1433"
   }
 ]

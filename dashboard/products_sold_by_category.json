@@ -1,38 +1,137 @@
 [
   {
+    "store_location": "Astoria",
     "product_category": "Coffee",
-    "total_product_sold": "88541"
+    "total_product_sold": "29395"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Tea",
-    "total_product_sold": "69231"
+    "total_product_sold": "23873"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Bakery",
-    "total_product_sold": "23056"
+    "total_product_sold": "7453"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Drinking Chocolate",
-    "total_product_sold": "17315"
+    "total_product_sold": "6303"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Flavours",
-    "total_product_sold": "10467"
+    "total_product_sold": "2206"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Coffee beans",
-    "total_product_sold": "1815"
+    "total_product_sold": "502"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Loose Tea",
-    "total_product_sold": "1202"
+    "total_product_sold": "344"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Branded",
-    "total_product_sold": "773"
+    "total_product_sold": "279"
   },
   {
+    "store_location": "Astoria",
     "product_category": "Packaged Chocolate",
-    "total_product_sold": "484"
+    "total_product_sold": "110"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee",
+    "total_product_sold": "30027"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Tea",
+    "total_product_sold": "22841"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Bakery",
+    "total_product_sold": "7617"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Drinking Chocolate",
+    "total_product_sold": "5629"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Flavours",
+    "total_product_sold": "3593"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Coffee beans",
+    "total_product_sold": "782"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Loose Tea",
+    "total_product_sold": "479"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Packaged Chocolate",
+    "total_product_sold": "196"
+  },
+  {
+    "store_location": "Hell\u0027s Kitchen",
+    "product_category": "Branded",
+    "total_product_sold": "119"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee",
+    "total_product_sold": "29119"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Tea",
+    "total_product_sold": "22517"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Bakery",
+    "total_product_sold": "7986"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Drinking Chocolate",
+    "total_product_sold": "5383"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Flavours",
+    "total_product_sold": "4668"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Coffee beans",
+    "total_product_sold": "531"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Loose Tea",
+    "total_product_sold": "379"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Branded",
+    "total_product_sold": "375"
+  },
+  {
+    "store_location": "Lower Manhattan",
+    "product_category": "Packaged Chocolate",
+    "total_product_sold": "178"
   }
 ]
