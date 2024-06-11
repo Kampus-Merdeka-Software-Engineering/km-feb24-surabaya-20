@@ -18,7 +18,3 @@ https://km-feb24-surabaya-20-one.vercel.app/
 2. CSS: For styling the dashboard layout and visualizations.
 3. JavaScript: For creating interactive elements and manipulating data visualizations (consider mentioning specific libraries used if any).
 4. Vercel: For deploying the website
-
-## *Further Development*
-
-Integrate with a real-time data source for live updates. 
