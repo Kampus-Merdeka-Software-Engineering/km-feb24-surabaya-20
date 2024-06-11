@@ -1,4 +1,3 @@
-# *Dashboard Website Coffee Shop Sales*
 # *Coffee Shop Sales Dashboard*
 
 This repository contains the source code for a web application that displays a coffee shop sales dashboard. The dashboard is built using HTML, CSS, and JavaScript to visualize and analyze coffee shop sales data.
