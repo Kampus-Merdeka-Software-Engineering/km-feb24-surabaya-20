@@ -22,6 +22,4 @@ Vercel: For deploying the website
 
 ## *Further Development*
 
-Implement additional visualizations like pie charts or geographic heatmaps (depending on your data).
-Integrate with a real-time data source for live updates.
-Allow users to download the data in different formats.
+Integrate with a real-time data source for live updates. 
